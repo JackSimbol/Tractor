@@ -1,0 +1,10509 @@
+{
+	"log": [
+		{
+			"keep_running": false,
+			"memory": 61,
+			"output": {
+				"command": "request",
+				"content": {
+					"0": {
+						"stage": "deal",
+						"deliver": [
+							13
+						],
+						"global": {
+							"level": "2",
+							"banking": {
+								"called": -1,
+								"snatched": -1,
+								"major": "",
+								"banker": -1
+							}
+						}
+					}
+				},
+				"display": {
+					"event": {
+						"currplayer": -1,
+						"action": "init"
+					},
+					"deliver": {
+						"player": 0,
+						"poker": [
+							13
+						]
+					},
+					"publiccard": [
+						7,
+						47,
+						4,
+						54,
+						32,
+						8,
+						83,
+						87
+					],
+					"level": "2"
+				}
+			},
+			"time": 184,
+			"verdict": "OK"
+		},
+		{
+			"0": {
+				"content": [],
+				"response": [],
+				"verdict": "OK"
+			}
+		},
+		{
+			"keep_running": false,
+			"memory": 61,
+			"output": {
+				"command": "request",
+				"content": {
+					"1": {
+						"stage": "deal",
+						"deliver": [
+							73
+						],
+						"global": {
+							"level": "2",
+							"banking": {
+								"called": -1,
+								"snatched": -1,
+								"major": "",
+								"banker": -1
+							}
+						}
+					}
+				},
+				"display": {
+					"event": {
+						"currplayer": 0,
+						"action": "deal",
+						"poker": []
+					},
+					"deliver": {
+						"player": 1,
+						"poker": [
+							73
+						]
+					},
+					"publiccard": [
+						7,
+						47,
+						4,
+						54,
+						32,
+						8,
+						83,
+						87
+					]
+				}
+			},
+			"time": 182,
+			"verdict": "OK"
+		},
+		{
+			"1": {
+				"keep_running": false,
+				"memory": 50,
+				"time": 32,
+				"verdict": "OK",
+				"response": []
+			}
+		},
+		{
+			"keep_running": false,
+			"memory": 61,
+			"output": {
+				"command": "request",
+				"content": {
+					"2": {
+						"stage": "deal",
+						"deliver": [
+							78
+						],
+						"global": {
+							"level": "2",
+							"banking": {
+								"called": -1,
+								"snatched": -1,
+								"major": "",
+								"banker": -1
+							}
+						}
+					}
+				},
+				"display": {
+					"event": {
+						"currplayer": 1,
+						"action": "deal",
+						"poker": []
+					},
+					"deliver": {
+						"player": 2,
+						"poker": [
+							78
+						]
+					},
+					"publiccard": [
+						7,
+						47,
+						4,
+						54,
+						32,
+						8,
+						83,
+						87
+					]
+				}
+			},
+			"time": 150,
+			"verdict": "OK"
+		},
+		{
+			"2": {
+				"keep_running": false,
+				"memory": 50,
+				"time": 31,
+				"verdict": "OK",
+				"response": []
+			}
+		},
+		{
+			"keep_running": false,
+			"memory": 61,
+			"output": {
+				"command": "request",
+				"content": {
+					"3": {
+						"stage": "deal",
+						"deliver": [
+							86
+						],
+						"global": {
+							"level": "2",
+							"banking": {
+								"called": -1,
+								"snatched": -1,
+								"major": "",
+								"banker": -1
+							}
+						}
+					}
+				},
+				"display": {
+					"event": {
+						"currplayer": 2,
+						"action": "deal",
+						"poker": []
+					},
+					"deliver": {
+						"player": 3,
+						"poker": [
+							86
+						]
+					},
+					"publiccard": [
+						7,
+						47,
+						4,
+						54,
+						32,
+						8,
+						83,
+						87
+					]
+				}
+			},
+			"time": 156,
+			"verdict": "OK"
+		},
+		{
+			"3": {
+				"keep_running": false,
+				"memory": 50,
+				"time": 32,
+				"verdict": "OK",
+				"response": []
+			}
+		},
+		{
+			"keep_running": false,
+			"memory": 61,
+			"output": {
+				"command": "request",
+				"content": {
+					"0": {
+						"stage": "deal",
+						"deliver": [
+							69
+						],
+						"global": {
+							"level": "2",
+							"banking": {
+								"called": -1,
+								"snatched": -1,
+								"major": "",
+								"banker": -1
+							}
+						}
+					}
+				},
+				"display": {
+					"event": {
+						"currplayer": 3,
+						"action": "deal",
+						"poker": []
+					},
+					"deliver": {
+						"player": 0,
+						"poker": [
+							69
+						]
+					},
+					"publiccard": [
+						7,
+						47,
+						4,
+						54,
+						32,
+						8,
+						83,
+						87
+					]
+				}
+			},
+			"time": 154,
+			"verdict": "OK"
+		},
+		{
+			"0": {
+				"content": [],
+				"response": [],
+				"verdict": "OK"
+			}
+		},
+		{
+			"keep_running": false,
+			"memory": 61,
+			"output": {
+				"command": "request",
+				"content": {
+					"1": {
+						"stage": "deal",
+						"deliver": [
+							24
+						],
+						"global": {
+							"level": "2",
+							"banking": {
+								"called": -1,
+								"snatched": -1,
+								"major": "",
+								"banker": -1
+							}
+						}
+					}
+				},
+				"display": {
+					"event": {
+						"currplayer": 0,
+						"action": "deal",
+						"poker": []
+					},
+					"deliver": {
+						"player": 1,
+						"poker": [
+							24
+						]
+					},
+					"publiccard": [
+						7,
+						47,
+						4,
+						54,
+						32,
+						8,
+						83,
+						87
+					]
+				}
+			},
+			"time": 152,
+			"verdict": "OK"
+		},
+		{
+			"1": {
+				"keep_running": false,
+				"memory": 50,
+				"time": 32,
+				"verdict": "OK",
+				"response": []
+			}
+		},
+		{
+			"keep_running": false,
+			"memory": 61,
+			"output": {
+				"command": "request",
+				"content": {
+					"2": {
+						"stage": "deal",
+						"deliver": [
+							22
+						],
+						"global": {
+							"level": "2",
+							"banking": {
+								"called": -1,
+								"snatched": -1,
+								"major": "",
+								"banker": -1
+							}
+						}
+					}
+				},
+				"display": {
+					"event": {
+						"currplayer": 1,
+						"action": "deal",
+						"poker": []
+					},
+					"deliver": {
+						"player": 2,
+						"poker": [
+							22
+						]
+					},
+					"publiccard": [
+						7,
+						47,
+						4,
+						54,
+						32,
+						8,
+						83,
+						87
+					]
+				}
+			},
+			"time": 150,
+			"verdict": "OK"
+		},
+		{
+			"2": {
+				"keep_running": false,
+				"memory": 50,
+				"time": 32,
+				"verdict": "OK",
+				"response": []
+			}
+		},
+		{
+			"keep_running": false,
+			"memory": 61,
+			"output": {
+				"command": "request",
+				"content": {
+					"3": {
+						"stage": "deal",
+						"deliver": [
+							52
+						],
+						"global": {
+							"level": "2",
+							"banking": {
+								"called": -1,
+								"snatched": -1,
+								"major": "",
+								"banker": -1
+							}
+						}
+					}
+				},
+				"display": {
+					"event": {
+						"currplayer": 2,
+						"action": "deal",
+						"poker": []
+					},
+					"deliver": {
+						"player": 3,
+						"poker": [
+							52
+						]
+					},
+					"publiccard": [
+						7,
+						47,
+						4,
+						54,
+						32,
+						8,
+						83,
+						87
+					]
+				}
+			},
+			"time": 150,
+			"verdict": "OK"
+		},
+		{
+			"3": {
+				"keep_running": false,
+				"memory": 50,
+				"time": 32,
+				"verdict": "OK",
+				"response": []
+			}
+		},
+		{
+			"keep_running": false,
+			"memory": 61,
+			"output": {
+				"command": "request",
+				"content": {
+					"0": {
+						"stage": "deal",
+						"deliver": [
+							38
+						],
+						"global": {
+							"level": "2",
+							"banking": {
+								"called": -1,
+								"snatched": -1,
+								"major": "",
+								"banker": -1
+							}
+						}
+					}
+				},
+				"display": {
+					"event": {
+						"currplayer": 3,
+						"action": "deal",
+						"poker": []
+					},
+					"deliver": {
+						"player": 0,
+						"poker": [
+							38
+						]
+					},
+					"publiccard": [
+						7,
+						47,
+						4,
+						54,
+						32,
+						8,
+						83,
+						87
+					]
+				}
+			},
+			"time": 155,
+			"verdict": "OK"
+		},
+		{
+			"0": {
+				"content": [],
+				"response": [],
+				"verdict": "OK"
+			}
+		},
+		{
+			"keep_running": false,
+			"memory": 61,
+			"output": {
+				"command": "request",
+				"content": {
+					"1": {
+						"stage": "deal",
+						"deliver": [
+							51
+						],
+						"global": {
+							"level": "2",
+							"banking": {
+								"called": -1,
+								"snatched": -1,
+								"major": "",
+								"banker": -1
+							}
+						}
+					}
+				},
+				"display": {
+					"event": {
+						"currplayer": 0,
+						"action": "deal",
+						"poker": []
+					},
+					"deliver": {
+						"player": 1,
+						"poker": [
+							51
+						]
+					},
+					"publiccard": [
+						7,
+						47,
+						4,
+						54,
+						32,
+						8,
+						83,
+						87
+					]
+				}
+			},
+			"time": 168,
+			"verdict": "OK"
+		},
+		{
+			"1": {
+				"keep_running": false,
+				"memory": 50,
+				"time": 32,
+				"verdict": "OK",
+				"response": []
+			}
+		},
+		{
+			"keep_running": false,
+			"memory": 61,
+			"output": {
+				"command": "request",
+				"content": {
+					"2": {
+						"stage": "deal",
+						"deliver": [
+							82
+						],
+						"global": {
+							"level": "2",
+							"banking": {
+								"called": -1,
+								"snatched": -1,
+								"major": "",
+								"banker": -1
+							}
+						}
+					}
+				},
+				"display": {
+					"event": {
+						"currplayer": 1,
+						"action": "deal",
+						"poker": []
+					},
+					"deliver": {
+						"player": 2,
+						"poker": [
+							82
+						]
+					},
+					"publiccard": [
+						7,
+						47,
+						4,
+						54,
+						32,
+						8,
+						83,
+						87
+					]
+				}
+			},
+			"time": 156,
+			"verdict": "OK"
+		},
+		{
+			"2": {
+				"keep_running": false,
+				"memory": 50,
+				"time": 32,
+				"verdict": "OK",
+				"response": []
+			}
+		},
+		{
+			"keep_running": false,
+			"memory": 61,
+			"output": {
+				"command": "request",
+				"content": {
+					"3": {
+						"stage": "deal",
+						"deliver": [
+							101
+						],
+						"global": {
+							"level": "2",
+							"banking": {
+								"called": -1,
+								"snatched": -1,
+								"major": "",
+								"banker": -1
+							}
+						}
+					}
+				},
+				"display": {
+					"event": {
+						"currplayer": 2,
+						"action": "deal",
+						"poker": []
+					},
+					"deliver": {
+						"player": 3,
+						"poker": [
+							101
+						]
+					},
+					"publiccard": [
+						7,
+						47,
+						4,
+						54,
+						32,
+						8,
+						83,
+						87
+					]
+				}
+			},
+			"time": 154,
+			"verdict": "OK"
+		},
+		{
+			"3": {
+				"keep_running": false,
+				"memory": 51,
+				"time": 32,
+				"verdict": "OK",
+				"response": []
+			}
+		},
+		{
+			"keep_running": false,
+			"memory": 61,
+			"output": {
+				"command": "request",
+				"content": {
+					"0": {
+						"stage": "deal",
+						"deliver": [
+							61
+						],
+						"global": {
+							"level": "2",
+							"banking": {
+								"called": -1,
+								"snatched": -1,
+								"major": "",
+								"banker": -1
+							}
+						}
+					}
+				},
+				"display": {
+					"event": {
+						"currplayer": 3,
+						"action": "deal",
+						"poker": []
+					},
+					"deliver": {
+						"player": 0,
+						"poker": [
+							61
+						]
+					},
+					"publiccard": [
+						7,
+						47,
+						4,
+						54,
+						32,
+						8,
+						83,
+						87
+					]
+				}
+			},
+			"time": 157,
+			"verdict": "OK"
+		},
+		{
+			"0": {
+				"content": [
+					61
+				],
+				"response": [
+					61
+				],
+				"verdict": "OK"
+			}
+		},
+		{
+			"keep_running": false,
+			"memory": 61,
+			"output": {
+				"command": "request",
+				"content": {
+					"1": {
+						"stage": "deal",
+						"deliver": [
+							67
+						],
+						"global": {
+							"level": "2",
+							"banking": {
+								"called": 0,
+								"snatched": -1,
+								"major": "c",
+								"banker": 0
+							}
+						}
+					}
+				},
+				"display": {
+					"event": {
+						"currplayer": 0,
+						"action": "deal",
+						"poker": [
+							61
+						]
+					},
+					"deliver": {
+						"player": 1,
+						"poker": [
+							67
+						]
+					},
+					"publiccard": [
+						7,
+						47,
+						4,
+						54,
+						32,
+						8,
+						83,
+						87
+					],
+					"banking": {
+						"called": 0,
+						"snatched": -1,
+						"major": "c",
+						"banker": 0
+					}
+				}
+			},
+			"time": 163,
+			"verdict": "OK"
+		},
+		{
+			"1": {
+				"keep_running": false,
+				"memory": 50,
+				"time": 32,
+				"verdict": "OK",
+				"response": []
+			}
+		},
+		{
+			"keep_running": false,
+			"memory": 61,
+			"output": {
+				"command": "request",
+				"content": {
+					"2": {
+						"stage": "deal",
+						"deliver": [
+							72
+						],
+						"global": {
+							"level": "2",
+							"banking": {
+								"called": 0,
+								"snatched": -1,
+								"major": "c",
+								"banker": 0
+							}
+						}
+					}
+				},
+				"display": {
+					"event": {
+						"currplayer": 1,
+						"action": "deal",
+						"poker": []
+					},
+					"deliver": {
+						"player": 2,
+						"poker": [
+							72
+						]
+					},
+					"publiccard": [
+						7,
+						47,
+						4,
+						54,
+						32,
+						8,
+						83,
+						87
+					]
+				}
+			},
+			"time": 156,
+			"verdict": "OK"
+		},
+		{
+			"2": {
+				"keep_running": false,
+				"memory": 50,
+				"time": 33,
+				"verdict": "OK",
+				"response": []
+			}
+		},
+		{
+			"keep_running": false,
+			"memory": 61,
+			"output": {
+				"command": "request",
+				"content": {
+					"3": {
+						"stage": "deal",
+						"deliver": [
+							85
+						],
+						"global": {
+							"level": "2",
+							"banking": {
+								"called": 0,
+								"snatched": -1,
+								"major": "c",
+								"banker": 0
+							}
+						}
+					}
+				},
+				"display": {
+					"event": {
+						"currplayer": 2,
+						"action": "deal",
+						"poker": []
+					},
+					"deliver": {
+						"player": 3,
+						"poker": [
+							85
+						]
+					},
+					"publiccard": [
+						7,
+						47,
+						4,
+						54,
+						32,
+						8,
+						83,
+						87
+					]
+				}
+			},
+			"time": 154,
+			"verdict": "OK"
+		},
+		{
+			"3": {
+				"keep_running": false,
+				"memory": 51,
+				"time": 33,
+				"verdict": "OK",
+				"response": []
+			}
+		},
+		{
+			"keep_running": false,
+			"memory": 61,
+			"output": {
+				"command": "request",
+				"content": {
+					"0": {
+						"stage": "deal",
+						"deliver": [
+							28
+						],
+						"global": {
+							"level": "2",
+							"banking": {
+								"called": 0,
+								"snatched": -1,
+								"major": "c",
+								"banker": 0
+							}
+						}
+					}
+				},
+				"display": {
+					"event": {
+						"currplayer": 3,
+						"action": "deal",
+						"poker": []
+					},
+					"deliver": {
+						"player": 0,
+						"poker": [
+							28
+						]
+					},
+					"publiccard": [
+						7,
+						47,
+						4,
+						54,
+						32,
+						8,
+						83,
+						87
+					]
+				}
+			},
+			"time": 159,
+			"verdict": "OK"
+		},
+		{
+			"0": {
+				"content": [],
+				"response": [],
+				"verdict": "OK"
+			}
+		},
+		{
+			"keep_running": false,
+			"memory": 61,
+			"output": {
+				"command": "request",
+				"content": {
+					"1": {
+						"stage": "deal",
+						"deliver": [
+							80
+						],
+						"global": {
+							"level": "2",
+							"banking": {
+								"called": 0,
+								"snatched": -1,
+								"major": "c",
+								"banker": 0
+							}
+						}
+					}
+				},
+				"display": {
+					"event": {
+						"currplayer": 0,
+						"action": "deal",
+						"poker": []
+					},
+					"deliver": {
+						"player": 1,
+						"poker": [
+							80
+						]
+					},
+					"publiccard": [
+						7,
+						47,
+						4,
+						54,
+						32,
+						8,
+						83,
+						87
+					]
+				}
+			},
+			"time": 156,
+			"verdict": "OK"
+		},
+		{
+			"1": {
+				"keep_running": false,
+				"memory": 50,
+				"time": 33,
+				"verdict": "OK",
+				"response": []
+			}
+		},
+		{
+			"keep_running": false,
+			"memory": 61,
+			"output": {
+				"command": "request",
+				"content": {
+					"2": {
+						"stage": "deal",
+						"deliver": [
+							25
+						],
+						"global": {
+							"level": "2",
+							"banking": {
+								"called": 0,
+								"snatched": -1,
+								"major": "c",
+								"banker": 0
+							}
+						}
+					}
+				},
+				"display": {
+					"event": {
+						"currplayer": 1,
+						"action": "deal",
+						"poker": []
+					},
+					"deliver": {
+						"player": 2,
+						"poker": [
+							25
+						]
+					},
+					"publiccard": [
+						7,
+						47,
+						4,
+						54,
+						32,
+						8,
+						83,
+						87
+					]
+				}
+			},
+			"time": 156,
+			"verdict": "OK"
+		},
+		{
+			"2": {
+				"keep_running": false,
+				"memory": 50,
+				"time": 32,
+				"verdict": "OK",
+				"response": []
+			}
+		},
+		{
+			"keep_running": false,
+			"memory": 61,
+			"output": {
+				"command": "request",
+				"content": {
+					"3": {
+						"stage": "deal",
+						"deliver": [
+							75
+						],
+						"global": {
+							"level": "2",
+							"banking": {
+								"called": 0,
+								"snatched": -1,
+								"major": "c",
+								"banker": 0
+							}
+						}
+					}
+				},
+				"display": {
+					"event": {
+						"currplayer": 2,
+						"action": "deal",
+						"poker": []
+					},
+					"deliver": {
+						"player": 3,
+						"poker": [
+							75
+						]
+					},
+					"publiccard": [
+						7,
+						47,
+						4,
+						54,
+						32,
+						8,
+						83,
+						87
+					]
+				}
+			},
+			"time": 156,
+			"verdict": "OK"
+		},
+		{
+			"3": {
+				"keep_running": false,
+				"memory": 51,
+				"time": 32,
+				"verdict": "OK",
+				"response": []
+			}
+		},
+		{
+			"keep_running": false,
+			"memory": 61,
+			"output": {
+				"command": "request",
+				"content": {
+					"0": {
+						"stage": "deal",
+						"deliver": [
+							99
+						],
+						"global": {
+							"level": "2",
+							"banking": {
+								"called": 0,
+								"snatched": -1,
+								"major": "c",
+								"banker": 0
+							}
+						}
+					}
+				},
+				"display": {
+					"event": {
+						"currplayer": 3,
+						"action": "deal",
+						"poker": []
+					},
+					"deliver": {
+						"player": 0,
+						"poker": [
+							99
+						]
+					},
+					"publiccard": [
+						7,
+						47,
+						4,
+						54,
+						32,
+						8,
+						83,
+						87
+					]
+				}
+			},
+			"time": 162,
+			"verdict": "OK"
+		},
+		{
+			"0": {
+				"content": [],
+				"response": [],
+				"verdict": "OK"
+			}
+		},
+		{
+			"keep_running": false,
+			"memory": 61,
+			"output": {
+				"command": "request",
+				"content": {
+					"1": {
+						"stage": "deal",
+						"deliver": [
+							81
+						],
+						"global": {
+							"level": "2",
+							"banking": {
+								"called": 0,
+								"snatched": -1,
+								"major": "c",
+								"banker": 0
+							}
+						}
+					}
+				},
+				"display": {
+					"event": {
+						"currplayer": 0,
+						"action": "deal",
+						"poker": []
+					},
+					"deliver": {
+						"player": 1,
+						"poker": [
+							81
+						]
+					},
+					"publiccard": [
+						7,
+						47,
+						4,
+						54,
+						32,
+						8,
+						83,
+						87
+					]
+				}
+			},
+			"time": 168,
+			"verdict": "OK"
+		},
+		{
+			"1": {
+				"keep_running": false,
+				"memory": 51,
+				"time": 33,
+				"verdict": "OK",
+				"response": []
+			}
+		},
+		{
+			"keep_running": false,
+			"memory": 61,
+			"output": {
+				"command": "request",
+				"content": {
+					"2": {
+						"stage": "deal",
+						"deliver": [
+							50
+						],
+						"global": {
+							"level": "2",
+							"banking": {
+								"called": 0,
+								"snatched": -1,
+								"major": "c",
+								"banker": 0
+							}
+						}
+					}
+				},
+				"display": {
+					"event": {
+						"currplayer": 1,
+						"action": "deal",
+						"poker": []
+					},
+					"deliver": {
+						"player": 2,
+						"poker": [
+							50
+						]
+					},
+					"publiccard": [
+						7,
+						47,
+						4,
+						54,
+						32,
+						8,
+						83,
+						87
+					]
+				}
+			},
+			"time": 154,
+			"verdict": "OK"
+		},
+		{
+			"2": {
+				"keep_running": false,
+				"memory": 50,
+				"time": 33,
+				"verdict": "OK",
+				"response": []
+			}
+		},
+		{
+			"keep_running": false,
+			"memory": 61,
+			"output": {
+				"command": "request",
+				"content": {
+					"3": {
+						"stage": "deal",
+						"deliver": [
+							89
+						],
+						"global": {
+							"level": "2",
+							"banking": {
+								"called": 0,
+								"snatched": -1,
+								"major": "c",
+								"banker": 0
+							}
+						}
+					}
+				},
+				"display": {
+					"event": {
+						"currplayer": 2,
+						"action": "deal",
+						"poker": []
+					},
+					"deliver": {
+						"player": 3,
+						"poker": [
+							89
+						]
+					},
+					"publiccard": [
+						7,
+						47,
+						4,
+						54,
+						32,
+						8,
+						83,
+						87
+					]
+				}
+			},
+			"time": 155,
+			"verdict": "OK"
+		},
+		{
+			"3": {
+				"keep_running": false,
+				"memory": 50,
+				"time": 33,
+				"verdict": "OK",
+				"response": []
+			}
+		},
+		{
+			"keep_running": false,
+			"memory": 61,
+			"output": {
+				"command": "request",
+				"content": {
+					"0": {
+						"stage": "deal",
+						"deliver": [
+							46
+						],
+						"global": {
+							"level": "2",
+							"banking": {
+								"called": 0,
+								"snatched": -1,
+								"major": "c",
+								"banker": 0
+							}
+						}
+					}
+				},
+				"display": {
+					"event": {
+						"currplayer": 3,
+						"action": "deal",
+						"poker": []
+					},
+					"deliver": {
+						"player": 0,
+						"poker": [
+							46
+						]
+					},
+					"publiccard": [
+						7,
+						47,
+						4,
+						54,
+						32,
+						8,
+						83,
+						87
+					]
+				}
+			},
+			"time": 157,
+			"verdict": "OK"
+		},
+		{
+			"0": {
+				"content": [],
+				"response": [],
+				"verdict": "OK"
+			}
+		},
+		{
+			"keep_running": false,
+			"memory": 61,
+			"output": {
+				"command": "request",
+				"content": {
+					"1": {
+						"stage": "deal",
+						"deliver": [
+							36
+						],
+						"global": {
+							"level": "2",
+							"banking": {
+								"called": 0,
+								"snatched": -1,
+								"major": "c",
+								"banker": 0
+							}
+						}
+					}
+				},
+				"display": {
+					"event": {
+						"currplayer": 0,
+						"action": "deal",
+						"poker": []
+					},
+					"deliver": {
+						"player": 1,
+						"poker": [
+							36
+						]
+					},
+					"publiccard": [
+						7,
+						47,
+						4,
+						54,
+						32,
+						8,
+						83,
+						87
+					]
+				}
+			},
+			"time": 156,
+			"verdict": "OK"
+		},
+		{
+			"1": {
+				"keep_running": false,
+				"memory": 50,
+				"time": 33,
+				"verdict": "OK",
+				"response": []
+			}
+		},
+		{
+			"keep_running": false,
+			"memory": 61,
+			"output": {
+				"command": "request",
+				"content": {
+					"2": {
+						"stage": "deal",
+						"deliver": [
+							102
+						],
+						"global": {
+							"level": "2",
+							"banking": {
+								"called": 0,
+								"snatched": -1,
+								"major": "c",
+								"banker": 0
+							}
+						}
+					}
+				},
+				"display": {
+					"event": {
+						"currplayer": 1,
+						"action": "deal",
+						"poker": []
+					},
+					"deliver": {
+						"player": 2,
+						"poker": [
+							102
+						]
+					},
+					"publiccard": [
+						7,
+						47,
+						4,
+						54,
+						32,
+						8,
+						83,
+						87
+					]
+				}
+			},
+			"time": 154,
+			"verdict": "OK"
+		},
+		{
+			"2": {
+				"keep_running": false,
+				"memory": 50,
+				"time": 34,
+				"verdict": "OK",
+				"response": []
+			}
+		},
+		{
+			"keep_running": false,
+			"memory": 61,
+			"output": {
+				"command": "request",
+				"content": {
+					"3": {
+						"stage": "deal",
+						"deliver": [
+							31
+						],
+						"global": {
+							"level": "2",
+							"banking": {
+								"called": 0,
+								"snatched": -1,
+								"major": "c",
+								"banker": 0
+							}
+						}
+					}
+				},
+				"display": {
+					"event": {
+						"currplayer": 2,
+						"action": "deal",
+						"poker": []
+					},
+					"deliver": {
+						"player": 3,
+						"poker": [
+							31
+						]
+					},
+					"publiccard": [
+						7,
+						47,
+						4,
+						54,
+						32,
+						8,
+						83,
+						87
+					]
+				}
+			},
+			"time": 156,
+			"verdict": "OK"
+		},
+		{
+			"3": {
+				"keep_running": false,
+				"memory": 51,
+				"time": 33,
+				"verdict": "OK",
+				"response": []
+			}
+		},
+		{
+			"keep_running": false,
+			"memory": 61,
+			"output": {
+				"command": "request",
+				"content": {
+					"0": {
+						"stage": "deal",
+						"deliver": [
+							20
+						],
+						"global": {
+							"level": "2",
+							"banking": {
+								"called": 0,
+								"snatched": -1,
+								"major": "c",
+								"banker": 0
+							}
+						}
+					}
+				},
+				"display": {
+					"event": {
+						"currplayer": 3,
+						"action": "deal",
+						"poker": []
+					},
+					"deliver": {
+						"player": 0,
+						"poker": [
+							20
+						]
+					},
+					"publiccard": [
+						7,
+						47,
+						4,
+						54,
+						32,
+						8,
+						83,
+						87
+					]
+				}
+			},
+			"time": 157,
+			"verdict": "OK"
+		},
+		{
+			"0": {
+				"content": [],
+				"response": [],
+				"verdict": "OK"
+			}
+		},
+		{
+			"keep_running": false,
+			"memory": 61,
+			"output": {
+				"command": "request",
+				"content": {
+					"1": {
+						"stage": "deal",
+						"deliver": [
+							74
+						],
+						"global": {
+							"level": "2",
+							"banking": {
+								"called": 0,
+								"snatched": -1,
+								"major": "c",
+								"banker": 0
+							}
+						}
+					}
+				},
+				"display": {
+					"event": {
+						"currplayer": 0,
+						"action": "deal",
+						"poker": []
+					},
+					"deliver": {
+						"player": 1,
+						"poker": [
+							74
+						]
+					},
+					"publiccard": [
+						7,
+						47,
+						4,
+						54,
+						32,
+						8,
+						83,
+						87
+					]
+				}
+			},
+			"time": 154,
+			"verdict": "OK"
+		},
+		{
+			"1": {
+				"keep_running": false,
+				"memory": 50,
+				"time": 33,
+				"verdict": "OK",
+				"response": []
+			}
+		},
+		{
+			"keep_running": false,
+			"memory": 61,
+			"output": {
+				"command": "request",
+				"content": {
+					"2": {
+						"stage": "deal",
+						"deliver": [
+							55
+						],
+						"global": {
+							"level": "2",
+							"banking": {
+								"called": 0,
+								"snatched": -1,
+								"major": "c",
+								"banker": 0
+							}
+						}
+					}
+				},
+				"display": {
+					"event": {
+						"currplayer": 1,
+						"action": "deal",
+						"poker": []
+					},
+					"deliver": {
+						"player": 2,
+						"poker": [
+							55
+						]
+					},
+					"publiccard": [
+						7,
+						47,
+						4,
+						54,
+						32,
+						8,
+						83,
+						87
+					]
+				}
+			},
+			"time": 155,
+			"verdict": "OK"
+		},
+		{
+			"2": {
+				"keep_running": false,
+				"memory": 50,
+				"time": 32,
+				"verdict": "OK",
+				"response": []
+			}
+		},
+		{
+			"keep_running": false,
+			"memory": 61,
+			"output": {
+				"command": "request",
+				"content": {
+					"3": {
+						"stage": "deal",
+						"deliver": [
+							92
+						],
+						"global": {
+							"level": "2",
+							"banking": {
+								"called": 0,
+								"snatched": -1,
+								"major": "c",
+								"banker": 0
+							}
+						}
+					}
+				},
+				"display": {
+					"event": {
+						"currplayer": 2,
+						"action": "deal",
+						"poker": []
+					},
+					"deliver": {
+						"player": 3,
+						"poker": [
+							92
+						]
+					},
+					"publiccard": [
+						7,
+						47,
+						4,
+						54,
+						32,
+						8,
+						83,
+						87
+					]
+				}
+			},
+			"time": 154,
+			"verdict": "OK"
+		},
+		{
+			"3": {
+				"keep_running": false,
+				"memory": 51,
+				"time": 34,
+				"verdict": "OK",
+				"response": []
+			}
+		},
+		{
+			"keep_running": false,
+			"memory": 61,
+			"output": {
+				"command": "request",
+				"content": {
+					"0": {
+						"stage": "deal",
+						"deliver": [
+							96
+						],
+						"global": {
+							"level": "2",
+							"banking": {
+								"called": 0,
+								"snatched": -1,
+								"major": "c",
+								"banker": 0
+							}
+						}
+					}
+				},
+				"display": {
+					"event": {
+						"currplayer": 3,
+						"action": "deal",
+						"poker": []
+					},
+					"deliver": {
+						"player": 0,
+						"poker": [
+							96
+						]
+					},
+					"publiccard": [
+						7,
+						47,
+						4,
+						54,
+						32,
+						8,
+						83,
+						87
+					]
+				}
+			},
+			"time": 160,
+			"verdict": "OK"
+		},
+		{
+			"0": {
+				"content": [],
+				"response": [],
+				"verdict": "OK"
+			}
+		},
+		{
+			"keep_running": false,
+			"memory": 61,
+			"output": {
+				"command": "request",
+				"content": {
+					"1": {
+						"stage": "deal",
+						"deliver": [
+							70
+						],
+						"global": {
+							"level": "2",
+							"banking": {
+								"called": 0,
+								"snatched": -1,
+								"major": "c",
+								"banker": 0
+							}
+						}
+					}
+				},
+				"display": {
+					"event": {
+						"currplayer": 0,
+						"action": "deal",
+						"poker": []
+					},
+					"deliver": {
+						"player": 1,
+						"poker": [
+							70
+						]
+					},
+					"publiccard": [
+						7,
+						47,
+						4,
+						54,
+						32,
+						8,
+						83,
+						87
+					]
+				}
+			},
+			"time": 151,
+			"verdict": "OK"
+		},
+		{
+			"1": {
+				"keep_running": false,
+				"memory": 51,
+				"time": 32,
+				"verdict": "OK",
+				"response": []
+			}
+		},
+		{
+			"keep_running": false,
+			"memory": 61,
+			"output": {
+				"command": "request",
+				"content": {
+					"2": {
+						"stage": "deal",
+						"deliver": [
+							29
+						],
+						"global": {
+							"level": "2",
+							"banking": {
+								"called": 0,
+								"snatched": -1,
+								"major": "c",
+								"banker": 0
+							}
+						}
+					}
+				},
+				"display": {
+					"event": {
+						"currplayer": 1,
+						"action": "deal",
+						"poker": []
+					},
+					"deliver": {
+						"player": 2,
+						"poker": [
+							29
+						]
+					},
+					"publiccard": [
+						7,
+						47,
+						4,
+						54,
+						32,
+						8,
+						83,
+						87
+					]
+				}
+			},
+			"time": 151,
+			"verdict": "OK"
+		},
+		{
+			"2": {
+				"keep_running": false,
+				"memory": 50,
+				"time": 33,
+				"verdict": "OK",
+				"response": []
+			}
+		},
+		{
+			"keep_running": false,
+			"memory": 61,
+			"output": {
+				"command": "request",
+				"content": {
+					"3": {
+						"stage": "deal",
+						"deliver": [
+							26
+						],
+						"global": {
+							"level": "2",
+							"banking": {
+								"called": 0,
+								"snatched": -1,
+								"major": "c",
+								"banker": 0
+							}
+						}
+					}
+				},
+				"display": {
+					"event": {
+						"currplayer": 2,
+						"action": "deal",
+						"poker": []
+					},
+					"deliver": {
+						"player": 3,
+						"poker": [
+							26
+						]
+					},
+					"publiccard": [
+						7,
+						47,
+						4,
+						54,
+						32,
+						8,
+						83,
+						87
+					]
+				}
+			},
+			"time": 152,
+			"verdict": "OK"
+		},
+		{
+			"3": {
+				"keep_running": false,
+				"memory": 50,
+				"time": 32,
+				"verdict": "OK",
+				"response": []
+			}
+		},
+		{
+			"keep_running": false,
+			"memory": 61,
+			"output": {
+				"command": "request",
+				"content": {
+					"0": {
+						"stage": "deal",
+						"deliver": [
+							91
+						],
+						"global": {
+							"level": "2",
+							"banking": {
+								"called": 0,
+								"snatched": -1,
+								"major": "c",
+								"banker": 0
+							}
+						}
+					}
+				},
+				"display": {
+					"event": {
+						"currplayer": 3,
+						"action": "deal",
+						"poker": []
+					},
+					"deliver": {
+						"player": 0,
+						"poker": [
+							91
+						]
+					},
+					"publiccard": [
+						7,
+						47,
+						4,
+						54,
+						32,
+						8,
+						83,
+						87
+					]
+				}
+			},
+			"time": 150,
+			"verdict": "OK"
+		},
+		{
+			"0": {
+				"content": [],
+				"response": [],
+				"verdict": "OK"
+			}
+		},
+		{
+			"keep_running": false,
+			"memory": 61,
+			"output": {
+				"command": "request",
+				"content": {
+					"1": {
+						"stage": "deal",
+						"deliver": [
+							18
+						],
+						"global": {
+							"level": "2",
+							"banking": {
+								"called": 0,
+								"snatched": -1,
+								"major": "c",
+								"banker": 0
+							}
+						}
+					}
+				},
+				"display": {
+					"event": {
+						"currplayer": 0,
+						"action": "deal",
+						"poker": []
+					},
+					"deliver": {
+						"player": 1,
+						"poker": [
+							18
+						]
+					},
+					"publiccard": [
+						7,
+						47,
+						4,
+						54,
+						32,
+						8,
+						83,
+						87
+					]
+				}
+			},
+			"time": 158,
+			"verdict": "OK"
+		},
+		{
+			"1": {
+				"keep_running": false,
+				"memory": 50,
+				"time": 32,
+				"verdict": "OK",
+				"response": []
+			}
+		},
+		{
+			"keep_running": false,
+			"memory": 61,
+			"output": {
+				"command": "request",
+				"content": {
+					"2": {
+						"stage": "deal",
+						"deliver": [
+							64
+						],
+						"global": {
+							"level": "2",
+							"banking": {
+								"called": 0,
+								"snatched": -1,
+								"major": "c",
+								"banker": 0
+							}
+						}
+					}
+				},
+				"display": {
+					"event": {
+						"currplayer": 1,
+						"action": "deal",
+						"poker": []
+					},
+					"deliver": {
+						"player": 2,
+						"poker": [
+							64
+						]
+					},
+					"publiccard": [
+						7,
+						47,
+						4,
+						54,
+						32,
+						8,
+						83,
+						87
+					]
+				}
+			},
+			"time": 151,
+			"verdict": "OK"
+		},
+		{
+			"2": {
+				"keep_running": false,
+				"memory": 50,
+				"time": 32,
+				"verdict": "OK",
+				"response": []
+			}
+		},
+		{
+			"keep_running": false,
+			"memory": 61,
+			"output": {
+				"command": "request",
+				"content": {
+					"3": {
+						"stage": "deal",
+						"deliver": [
+							41
+						],
+						"global": {
+							"level": "2",
+							"banking": {
+								"called": 0,
+								"snatched": -1,
+								"major": "c",
+								"banker": 0
+							}
+						}
+					}
+				},
+				"display": {
+					"event": {
+						"currplayer": 2,
+						"action": "deal",
+						"poker": []
+					},
+					"deliver": {
+						"player": 3,
+						"poker": [
+							41
+						]
+					},
+					"publiccard": [
+						7,
+						47,
+						4,
+						54,
+						32,
+						8,
+						83,
+						87
+					]
+				}
+			},
+			"time": 151,
+			"verdict": "OK"
+		},
+		{
+			"3": {
+				"keep_running": false,
+				"memory": 50,
+				"time": 32,
+				"verdict": "OK",
+				"response": []
+			}
+		},
+		{
+			"keep_running": false,
+			"memory": 61,
+			"output": {
+				"command": "request",
+				"content": {
+					"0": {
+						"stage": "deal",
+						"deliver": [
+							58
+						],
+						"global": {
+							"level": "2",
+							"banking": {
+								"called": 0,
+								"snatched": -1,
+								"major": "c",
+								"banker": 0
+							}
+						}
+					}
+				},
+				"display": {
+					"event": {
+						"currplayer": 3,
+						"action": "deal",
+						"poker": []
+					},
+					"deliver": {
+						"player": 0,
+						"poker": [
+							58
+						]
+					},
+					"publiccard": [
+						7,
+						47,
+						4,
+						54,
+						32,
+						8,
+						83,
+						87
+					]
+				}
+			},
+			"time": 157,
+			"verdict": "OK"
+		},
+		{
+			"0": {
+				"content": [],
+				"response": [],
+				"verdict": "OK"
+			}
+		},
+		{
+			"keep_running": false,
+			"memory": 61,
+			"output": {
+				"command": "request",
+				"content": {
+					"1": {
+						"stage": "deal",
+						"deliver": [
+							60
+						],
+						"global": {
+							"level": "2",
+							"banking": {
+								"called": 0,
+								"snatched": -1,
+								"major": "c",
+								"banker": 0
+							}
+						}
+					}
+				},
+				"display": {
+					"event": {
+						"currplayer": 0,
+						"action": "deal",
+						"poker": []
+					},
+					"deliver": {
+						"player": 1,
+						"poker": [
+							60
+						]
+					},
+					"publiccard": [
+						7,
+						47,
+						4,
+						54,
+						32,
+						8,
+						83,
+						87
+					]
+				}
+			},
+			"time": 157,
+			"verdict": "OK"
+		},
+		{
+			"1": {
+				"keep_running": false,
+				"memory": 50,
+				"time": 32,
+				"verdict": "OK",
+				"response": []
+			}
+		},
+		{
+			"keep_running": false,
+			"memory": 61,
+			"output": {
+				"command": "request",
+				"content": {
+					"2": {
+						"stage": "deal",
+						"deliver": [
+							19
+						],
+						"global": {
+							"level": "2",
+							"banking": {
+								"called": 0,
+								"snatched": -1,
+								"major": "c",
+								"banker": 0
+							}
+						}
+					}
+				},
+				"display": {
+					"event": {
+						"currplayer": 1,
+						"action": "deal",
+						"poker": []
+					},
+					"deliver": {
+						"player": 2,
+						"poker": [
+							19
+						]
+					},
+					"publiccard": [
+						7,
+						47,
+						4,
+						54,
+						32,
+						8,
+						83,
+						87
+					]
+				}
+			},
+			"time": 151,
+			"verdict": "OK"
+		},
+		{
+			"2": {
+				"keep_running": false,
+				"memory": 50,
+				"time": 32,
+				"verdict": "OK",
+				"response": []
+			}
+		},
+		{
+			"keep_running": false,
+			"memory": 61,
+			"output": {
+				"command": "request",
+				"content": {
+					"3": {
+						"stage": "deal",
+						"deliver": [
+							6
+						],
+						"global": {
+							"level": "2",
+							"banking": {
+								"called": 0,
+								"snatched": -1,
+								"major": "c",
+								"banker": 0
+							}
+						}
+					}
+				},
+				"display": {
+					"event": {
+						"currplayer": 2,
+						"action": "deal",
+						"poker": []
+					},
+					"deliver": {
+						"player": 3,
+						"poker": [
+							6
+						]
+					},
+					"publiccard": [
+						7,
+						47,
+						4,
+						54,
+						32,
+						8,
+						83,
+						87
+					]
+				}
+			},
+			"time": 152,
+			"verdict": "OK"
+		},
+		{
+			"3": {
+				"keep_running": false,
+				"memory": 50,
+				"time": 32,
+				"verdict": "OK",
+				"response": []
+			}
+		},
+		{
+			"keep_running": false,
+			"memory": 61,
+			"output": {
+				"command": "request",
+				"content": {
+					"0": {
+						"stage": "deal",
+						"deliver": [
+							10
+						],
+						"global": {
+							"level": "2",
+							"banking": {
+								"called": 0,
+								"snatched": -1,
+								"major": "c",
+								"banker": 0
+							}
+						}
+					}
+				},
+				"display": {
+					"event": {
+						"currplayer": 3,
+						"action": "deal",
+						"poker": []
+					},
+					"deliver": {
+						"player": 0,
+						"poker": [
+							10
+						]
+					},
+					"publiccard": [
+						7,
+						47,
+						4,
+						54,
+						32,
+						8,
+						83,
+						87
+					]
+				}
+			},
+			"time": 155,
+			"verdict": "OK"
+		},
+		{
+			"0": {
+				"content": [],
+				"response": [],
+				"verdict": "OK"
+			}
+		},
+		{
+			"keep_running": false,
+			"memory": 61,
+			"output": {
+				"command": "request",
+				"content": {
+					"1": {
+						"stage": "deal",
+						"deliver": [
+							33
+						],
+						"global": {
+							"level": "2",
+							"banking": {
+								"called": 0,
+								"snatched": -1,
+								"major": "c",
+								"banker": 0
+							}
+						}
+					}
+				},
+				"display": {
+					"event": {
+						"currplayer": 0,
+						"action": "deal",
+						"poker": []
+					},
+					"deliver": {
+						"player": 1,
+						"poker": [
+							33
+						]
+					},
+					"publiccard": [
+						7,
+						47,
+						4,
+						54,
+						32,
+						8,
+						83,
+						87
+					]
+				}
+			},
+			"time": 152,
+			"verdict": "OK"
+		},
+		{
+			"1": {
+				"keep_running": false,
+				"memory": 50,
+				"time": 32,
+				"verdict": "OK",
+				"response": []
+			}
+		},
+		{
+			"keep_running": false,
+			"memory": 61,
+			"output": {
+				"command": "request",
+				"content": {
+					"2": {
+						"stage": "deal",
+						"deliver": [
+							105
+						],
+						"global": {
+							"level": "2",
+							"banking": {
+								"called": 0,
+								"snatched": -1,
+								"major": "c",
+								"banker": 0
+							}
+						}
+					}
+				},
+				"display": {
+					"event": {
+						"currplayer": 1,
+						"action": "deal",
+						"poker": []
+					},
+					"deliver": {
+						"player": 2,
+						"poker": [
+							105
+						]
+					},
+					"publiccard": [
+						7,
+						47,
+						4,
+						54,
+						32,
+						8,
+						83,
+						87
+					]
+				}
+			},
+			"time": 153,
+			"verdict": "OK"
+		},
+		{
+			"2": {
+				"keep_running": false,
+				"memory": 51,
+				"time": 32,
+				"verdict": "OK",
+				"response": []
+			}
+		},
+		{
+			"keep_running": false,
+			"memory": 61,
+			"output": {
+				"command": "request",
+				"content": {
+					"3": {
+						"stage": "deal",
+						"deliver": [
+							12
+						],
+						"global": {
+							"level": "2",
+							"banking": {
+								"called": 0,
+								"snatched": -1,
+								"major": "c",
+								"banker": 0
+							}
+						}
+					}
+				},
+				"display": {
+					"event": {
+						"currplayer": 2,
+						"action": "deal",
+						"poker": []
+					},
+					"deliver": {
+						"player": 3,
+						"poker": [
+							12
+						]
+					},
+					"publiccard": [
+						7,
+						47,
+						4,
+						54,
+						32,
+						8,
+						83,
+						87
+					]
+				}
+			},
+			"time": 158,
+			"verdict": "OK"
+		},
+		{
+			"3": {
+				"keep_running": false,
+				"memory": 50,
+				"time": 31,
+				"verdict": "OK",
+				"response": []
+			}
+		},
+		{
+			"keep_running": false,
+			"memory": 61,
+			"output": {
+				"command": "request",
+				"content": {
+					"0": {
+						"stage": "deal",
+						"deliver": [
+							35
+						],
+						"global": {
+							"level": "2",
+							"banking": {
+								"called": 0,
+								"snatched": -1,
+								"major": "c",
+								"banker": 0
+							}
+						}
+					}
+				},
+				"display": {
+					"event": {
+						"currplayer": 3,
+						"action": "deal",
+						"poker": []
+					},
+					"deliver": {
+						"player": 0,
+						"poker": [
+							35
+						]
+					},
+					"publiccard": [
+						7,
+						47,
+						4,
+						54,
+						32,
+						8,
+						83,
+						87
+					]
+				}
+			},
+			"time": 150,
+			"verdict": "OK"
+		},
+		{
+			"0": {
+				"content": [],
+				"response": [],
+				"verdict": "OK"
+			}
+		},
+		{
+			"keep_running": false,
+			"memory": 61,
+			"output": {
+				"command": "request",
+				"content": {
+					"1": {
+						"stage": "deal",
+						"deliver": [
+							65
+						],
+						"global": {
+							"level": "2",
+							"banking": {
+								"called": 0,
+								"snatched": -1,
+								"major": "c",
+								"banker": 0
+							}
+						}
+					}
+				},
+				"display": {
+					"event": {
+						"currplayer": 0,
+						"action": "deal",
+						"poker": []
+					},
+					"deliver": {
+						"player": 1,
+						"poker": [
+							65
+						]
+					},
+					"publiccard": [
+						7,
+						47,
+						4,
+						54,
+						32,
+						8,
+						83,
+						87
+					]
+				}
+			},
+			"time": 152,
+			"verdict": "OK"
+		},
+		{
+			"1": {
+				"keep_running": false,
+				"memory": 51,
+				"time": 32,
+				"verdict": "OK",
+				"response": []
+			}
+		},
+		{
+			"keep_running": false,
+			"memory": 61,
+			"output": {
+				"command": "request",
+				"content": {
+					"2": {
+						"stage": "deal",
+						"deliver": [
+							48
+						],
+						"global": {
+							"level": "2",
+							"banking": {
+								"called": 0,
+								"snatched": -1,
+								"major": "c",
+								"banker": 0
+							}
+						}
+					}
+				},
+				"display": {
+					"event": {
+						"currplayer": 1,
+						"action": "deal",
+						"poker": []
+					},
+					"deliver": {
+						"player": 2,
+						"poker": [
+							48
+						]
+					},
+					"publiccard": [
+						7,
+						47,
+						4,
+						54,
+						32,
+						8,
+						83,
+						87
+					]
+				}
+			},
+			"time": 158,
+			"verdict": "OK"
+		},
+		{
+			"2": {
+				"keep_running": false,
+				"memory": 50,
+				"time": 33,
+				"verdict": "OK",
+				"response": []
+			}
+		},
+		{
+			"keep_running": false,
+			"memory": 61,
+			"output": {
+				"command": "request",
+				"content": {
+					"3": {
+						"stage": "deal",
+						"deliver": [
+							45
+						],
+						"global": {
+							"level": "2",
+							"banking": {
+								"called": 0,
+								"snatched": -1,
+								"major": "c",
+								"banker": 0
+							}
+						}
+					}
+				},
+				"display": {
+					"event": {
+						"currplayer": 2,
+						"action": "deal",
+						"poker": []
+					},
+					"deliver": {
+						"player": 3,
+						"poker": [
+							45
+						]
+					},
+					"publiccard": [
+						7,
+						47,
+						4,
+						54,
+						32,
+						8,
+						83,
+						87
+					]
+				}
+			},
+			"time": 187,
+			"verdict": "OK"
+		},
+		{
+			"3": {
+				"keep_running": false,
+				"memory": 50,
+				"time": 35,
+				"verdict": "OK",
+				"response": []
+			}
+		},
+		{
+			"keep_running": false,
+			"memory": 61,
+			"output": {
+				"command": "request",
+				"content": {
+					"0": {
+						"stage": "deal",
+						"deliver": [
+							43
+						],
+						"global": {
+							"level": "2",
+							"banking": {
+								"called": 0,
+								"snatched": -1,
+								"major": "c",
+								"banker": 0
+							}
+						}
+					}
+				},
+				"display": {
+					"event": {
+						"currplayer": 3,
+						"action": "deal",
+						"poker": []
+					},
+					"deliver": {
+						"player": 0,
+						"poker": [
+							43
+						]
+					},
+					"publiccard": [
+						7,
+						47,
+						4,
+						54,
+						32,
+						8,
+						83,
+						87
+					]
+				}
+			},
+			"time": 169,
+			"verdict": "OK"
+		},
+		{
+			"0": {
+				"content": [],
+				"response": [],
+				"verdict": "OK"
+			}
+		},
+		{
+			"keep_running": false,
+			"memory": 61,
+			"output": {
+				"command": "request",
+				"content": {
+					"1": {
+						"stage": "deal",
+						"deliver": [
+							34
+						],
+						"global": {
+							"level": "2",
+							"banking": {
+								"called": 0,
+								"snatched": -1,
+								"major": "c",
+								"banker": 0
+							}
+						}
+					}
+				},
+				"display": {
+					"event": {
+						"currplayer": 0,
+						"action": "deal",
+						"poker": []
+					},
+					"deliver": {
+						"player": 1,
+						"poker": [
+							34
+						]
+					},
+					"publiccard": [
+						7,
+						47,
+						4,
+						54,
+						32,
+						8,
+						83,
+						87
+					]
+				}
+			},
+			"time": 177,
+			"verdict": "OK"
+		},
+		{
+			"1": {
+				"keep_running": false,
+				"memory": 51,
+				"time": 34,
+				"verdict": "OK",
+				"response": []
+			}
+		},
+		{
+			"keep_running": false,
+			"memory": 61,
+			"output": {
+				"command": "request",
+				"content": {
+					"2": {
+						"stage": "deal",
+						"deliver": [
+							79
+						],
+						"global": {
+							"level": "2",
+							"banking": {
+								"called": 0,
+								"snatched": -1,
+								"major": "c",
+								"banker": 0
+							}
+						}
+					}
+				},
+				"display": {
+					"event": {
+						"currplayer": 1,
+						"action": "deal",
+						"poker": []
+					},
+					"deliver": {
+						"player": 2,
+						"poker": [
+							79
+						]
+					},
+					"publiccard": [
+						7,
+						47,
+						4,
+						54,
+						32,
+						8,
+						83,
+						87
+					]
+				}
+			},
+			"time": 177,
+			"verdict": "OK"
+		},
+		{
+			"2": {
+				"keep_running": false,
+				"memory": 50,
+				"time": 36,
+				"verdict": "OK",
+				"response": []
+			}
+		},
+		{
+			"keep_running": false,
+			"memory": 61,
+			"output": {
+				"command": "request",
+				"content": {
+					"3": {
+						"stage": "deal",
+						"deliver": [
+							3
+						],
+						"global": {
+							"level": "2",
+							"banking": {
+								"called": 0,
+								"snatched": -1,
+								"major": "c",
+								"banker": 0
+							}
+						}
+					}
+				},
+				"display": {
+					"event": {
+						"currplayer": 2,
+						"action": "deal",
+						"poker": []
+					},
+					"deliver": {
+						"player": 3,
+						"poker": [
+							3
+						]
+					},
+					"publiccard": [
+						7,
+						47,
+						4,
+						54,
+						32,
+						8,
+						83,
+						87
+					]
+				}
+			},
+			"time": 173,
+			"verdict": "OK"
+		},
+		{
+			"3": {
+				"keep_running": false,
+				"memory": 50,
+				"time": 34,
+				"verdict": "OK",
+				"response": []
+			}
+		},
+		{
+			"keep_running": false,
+			"memory": 61,
+			"output": {
+				"command": "request",
+				"content": {
+					"0": {
+						"stage": "deal",
+						"deliver": [
+							21
+						],
+						"global": {
+							"level": "2",
+							"banking": {
+								"called": 0,
+								"snatched": -1,
+								"major": "c",
+								"banker": 0
+							}
+						}
+					}
+				},
+				"display": {
+					"event": {
+						"currplayer": 3,
+						"action": "deal",
+						"poker": []
+					},
+					"deliver": {
+						"player": 0,
+						"poker": [
+							21
+						]
+					},
+					"publiccard": [
+						7,
+						47,
+						4,
+						54,
+						32,
+						8,
+						83,
+						87
+					]
+				}
+			},
+			"time": 166,
+			"verdict": "OK"
+		},
+		{
+			"0": {
+				"content": [],
+				"response": [],
+				"verdict": "OK"
+			}
+		},
+		{
+			"keep_running": false,
+			"memory": 61,
+			"output": {
+				"command": "request",
+				"content": {
+					"1": {
+						"stage": "deal",
+						"deliver": [
+							84
+						],
+						"global": {
+							"level": "2",
+							"banking": {
+								"called": 0,
+								"snatched": -1,
+								"major": "c",
+								"banker": 0
+							}
+						}
+					}
+				},
+				"display": {
+					"event": {
+						"currplayer": 0,
+						"action": "deal",
+						"poker": []
+					},
+					"deliver": {
+						"player": 1,
+						"poker": [
+							84
+						]
+					},
+					"publiccard": [
+						7,
+						47,
+						4,
+						54,
+						32,
+						8,
+						83,
+						87
+					]
+				}
+			},
+			"time": 172,
+			"verdict": "OK"
+		},
+		{
+			"1": {
+				"keep_running": false,
+				"memory": 51,
+				"time": 35,
+				"verdict": "OK",
+				"response": []
+			}
+		},
+		{
+			"keep_running": false,
+			"memory": 61,
+			"output": {
+				"command": "request",
+				"content": {
+					"2": {
+						"stage": "deal",
+						"deliver": [
+							107
+						],
+						"global": {
+							"level": "2",
+							"banking": {
+								"called": 0,
+								"snatched": -1,
+								"major": "c",
+								"banker": 0
+							}
+						}
+					}
+				},
+				"display": {
+					"event": {
+						"currplayer": 1,
+						"action": "deal",
+						"poker": []
+					},
+					"deliver": {
+						"player": 2,
+						"poker": [
+							107
+						]
+					},
+					"publiccard": [
+						7,
+						47,
+						4,
+						54,
+						32,
+						8,
+						83,
+						87
+					]
+				}
+			},
+			"time": 182,
+			"verdict": "OK"
+		},
+		{
+			"2": {
+				"keep_running": false,
+				"memory": 50,
+				"time": 37,
+				"verdict": "OK",
+				"response": []
+			}
+		},
+		{
+			"keep_running": false,
+			"memory": 61,
+			"output": {
+				"command": "request",
+				"content": {
+					"3": {
+						"stage": "deal",
+						"deliver": [
+							44
+						],
+						"global": {
+							"level": "2",
+							"banking": {
+								"called": 0,
+								"snatched": -1,
+								"major": "c",
+								"banker": 0
+							}
+						}
+					}
+				},
+				"display": {
+					"event": {
+						"currplayer": 2,
+						"action": "deal",
+						"poker": []
+					},
+					"deliver": {
+						"player": 3,
+						"poker": [
+							44
+						]
+					},
+					"publiccard": [
+						7,
+						47,
+						4,
+						54,
+						32,
+						8,
+						83,
+						87
+					]
+				}
+			},
+			"time": 177,
+			"verdict": "OK"
+		},
+		{
+			"3": {
+				"keep_running": false,
+				"memory": 50,
+				"time": 35,
+				"verdict": "OK",
+				"response": []
+			}
+		},
+		{
+			"keep_running": false,
+			"memory": 61,
+			"output": {
+				"command": "request",
+				"content": {
+					"0": {
+						"stage": "deal",
+						"deliver": [
+							56
+						],
+						"global": {
+							"level": "2",
+							"banking": {
+								"called": 0,
+								"snatched": -1,
+								"major": "c",
+								"banker": 0
+							}
+						}
+					}
+				},
+				"display": {
+					"event": {
+						"currplayer": 3,
+						"action": "deal",
+						"poker": []
+					},
+					"deliver": {
+						"player": 0,
+						"poker": [
+							56
+						]
+					},
+					"publiccard": [
+						7,
+						47,
+						4,
+						54,
+						32,
+						8,
+						83,
+						87
+					]
+				}
+			},
+			"time": 170,
+			"verdict": "OK"
+		},
+		{
+			"0": {
+				"content": [],
+				"response": [],
+				"verdict": "OK"
+			}
+		},
+		{
+			"keep_running": false,
+			"memory": 61,
+			"output": {
+				"command": "request",
+				"content": {
+					"1": {
+						"stage": "deal",
+						"deliver": [
+							104
+						],
+						"global": {
+							"level": "2",
+							"banking": {
+								"called": 0,
+								"snatched": -1,
+								"major": "c",
+								"banker": 0
+							}
+						}
+					}
+				},
+				"display": {
+					"event": {
+						"currplayer": 0,
+						"action": "deal",
+						"poker": []
+					},
+					"deliver": {
+						"player": 1,
+						"poker": [
+							104
+						]
+					},
+					"publiccard": [
+						7,
+						47,
+						4,
+						54,
+						32,
+						8,
+						83,
+						87
+					]
+				}
+			},
+			"time": 173,
+			"verdict": "OK"
+		},
+		{
+			"1": {
+				"keep_running": false,
+				"memory": 51,
+				"time": 35,
+				"verdict": "OK",
+				"response": []
+			}
+		},
+		{
+			"keep_running": false,
+			"memory": 61,
+			"output": {
+				"command": "request",
+				"content": {
+					"2": {
+						"stage": "deal",
+						"deliver": [
+							100
+						],
+						"global": {
+							"level": "2",
+							"banking": {
+								"called": 0,
+								"snatched": -1,
+								"major": "c",
+								"banker": 0
+							}
+						}
+					}
+				},
+				"display": {
+					"event": {
+						"currplayer": 1,
+						"action": "deal",
+						"poker": []
+					},
+					"deliver": {
+						"player": 2,
+						"poker": [
+							100
+						]
+					},
+					"publiccard": [
+						7,
+						47,
+						4,
+						54,
+						32,
+						8,
+						83,
+						87
+					]
+				}
+			},
+			"time": 174,
+			"verdict": "OK"
+		},
+		{
+			"2": {
+				"keep_running": false,
+				"memory": 50,
+				"time": 38,
+				"verdict": "OK",
+				"response": []
+			}
+		},
+		{
+			"keep_running": false,
+			"memory": 61,
+			"output": {
+				"command": "request",
+				"content": {
+					"3": {
+						"stage": "deal",
+						"deliver": [
+							57
+						],
+						"global": {
+							"level": "2",
+							"banking": {
+								"called": 0,
+								"snatched": -1,
+								"major": "c",
+								"banker": 0
+							}
+						}
+					}
+				},
+				"display": {
+					"event": {
+						"currplayer": 2,
+						"action": "deal",
+						"poker": []
+					},
+					"deliver": {
+						"player": 3,
+						"poker": [
+							57
+						]
+					},
+					"publiccard": [
+						7,
+						47,
+						4,
+						54,
+						32,
+						8,
+						83,
+						87
+					]
+				}
+			},
+			"time": 180,
+			"verdict": "OK"
+		},
+		{
+			"3": {
+				"keep_running": false,
+				"memory": 51,
+				"time": 38,
+				"verdict": "OK",
+				"response": []
+			}
+		},
+		{
+			"keep_running": false,
+			"memory": 61,
+			"output": {
+				"command": "request",
+				"content": {
+					"0": {
+						"stage": "deal",
+						"deliver": [
+							40
+						],
+						"global": {
+							"level": "2",
+							"banking": {
+								"called": 0,
+								"snatched": -1,
+								"major": "c",
+								"banker": 0
+							}
+						}
+					}
+				},
+				"display": {
+					"event": {
+						"currplayer": 3,
+						"action": "deal",
+						"poker": []
+					},
+					"deliver": {
+						"player": 0,
+						"poker": [
+							40
+						]
+					},
+					"publiccard": [
+						7,
+						47,
+						4,
+						54,
+						32,
+						8,
+						83,
+						87
+					]
+				}
+			},
+			"time": 172,
+			"verdict": "OK"
+		},
+		{
+			"0": {
+				"content": [],
+				"response": [],
+				"verdict": "OK"
+			}
+		},
+		{
+			"keep_running": false,
+			"memory": 61,
+			"output": {
+				"command": "request",
+				"content": {
+					"1": {
+						"stage": "deal",
+						"deliver": [
+							17
+						],
+						"global": {
+							"level": "2",
+							"banking": {
+								"called": 0,
+								"snatched": -1,
+								"major": "c",
+								"banker": 0
+							}
+						}
+					}
+				},
+				"display": {
+					"event": {
+						"currplayer": 0,
+						"action": "deal",
+						"poker": []
+					},
+					"deliver": {
+						"player": 1,
+						"poker": [
+							17
+						]
+					},
+					"publiccard": [
+						7,
+						47,
+						4,
+						54,
+						32,
+						8,
+						83,
+						87
+					]
+				}
+			},
+			"time": 172,
+			"verdict": "OK"
+		},
+		{
+			"1": {
+				"keep_running": false,
+				"memory": 51,
+				"time": 36,
+				"verdict": "OK",
+				"response": []
+			}
+		},
+		{
+			"keep_running": false,
+			"memory": 61,
+			"output": {
+				"command": "request",
+				"content": {
+					"2": {
+						"stage": "deal",
+						"deliver": [
+							71
+						],
+						"global": {
+							"level": "2",
+							"banking": {
+								"called": 0,
+								"snatched": -1,
+								"major": "c",
+								"banker": 0
+							}
+						}
+					}
+				},
+				"display": {
+					"event": {
+						"currplayer": 1,
+						"action": "deal",
+						"poker": []
+					},
+					"deliver": {
+						"player": 2,
+						"poker": [
+							71
+						]
+					},
+					"publiccard": [
+						7,
+						47,
+						4,
+						54,
+						32,
+						8,
+						83,
+						87
+					]
+				}
+			},
+			"time": 176,
+			"verdict": "OK"
+		},
+		{
+			"2": {
+				"keep_running": false,
+				"memory": 51,
+				"time": 36,
+				"verdict": "OK",
+				"response": []
+			}
+		},
+		{
+			"keep_running": false,
+			"memory": 61,
+			"output": {
+				"command": "request",
+				"content": {
+					"3": {
+						"stage": "deal",
+						"deliver": [
+							27
+						],
+						"global": {
+							"level": "2",
+							"banking": {
+								"called": 0,
+								"snatched": -1,
+								"major": "c",
+								"banker": 0
+							}
+						}
+					}
+				},
+				"display": {
+					"event": {
+						"currplayer": 2,
+						"action": "deal",
+						"poker": []
+					},
+					"deliver": {
+						"player": 3,
+						"poker": [
+							27
+						]
+					},
+					"publiccard": [
+						7,
+						47,
+						4,
+						54,
+						32,
+						8,
+						83,
+						87
+					]
+				}
+			},
+			"time": 198,
+			"verdict": "OK"
+		},
+		{
+			"3": {
+				"keep_running": false,
+				"memory": 50,
+				"time": 38,
+				"verdict": "OK",
+				"response": []
+			}
+		},
+		{
+			"keep_running": false,
+			"memory": 61,
+			"output": {
+				"command": "request",
+				"content": {
+					"0": {
+						"stage": "deal",
+						"deliver": [
+							5
+						],
+						"global": {
+							"level": "2",
+							"banking": {
+								"called": 0,
+								"snatched": -1,
+								"major": "c",
+								"banker": 0
+							}
+						}
+					}
+				},
+				"display": {
+					"event": {
+						"currplayer": 3,
+						"action": "deal",
+						"poker": []
+					},
+					"deliver": {
+						"player": 0,
+						"poker": [
+							5
+						]
+					},
+					"publiccard": [
+						7,
+						47,
+						4,
+						54,
+						32,
+						8,
+						83,
+						87
+					]
+				}
+			},
+			"time": 175,
+			"verdict": "OK"
+		},
+		{
+			"0": {
+				"content": [],
+				"response": [],
+				"verdict": "OK"
+			}
+		},
+		{
+			"keep_running": false,
+			"memory": 61,
+			"output": {
+				"command": "request",
+				"content": {
+					"1": {
+						"stage": "deal",
+						"deliver": [
+							90
+						],
+						"global": {
+							"level": "2",
+							"banking": {
+								"called": 0,
+								"snatched": -1,
+								"major": "c",
+								"banker": 0
+							}
+						}
+					}
+				},
+				"display": {
+					"event": {
+						"currplayer": 0,
+						"action": "deal",
+						"poker": []
+					},
+					"deliver": {
+						"player": 1,
+						"poker": [
+							90
+						]
+					},
+					"publiccard": [
+						7,
+						47,
+						4,
+						54,
+						32,
+						8,
+						83,
+						87
+					]
+				}
+			},
+			"time": 184,
+			"verdict": "OK"
+		},
+		{
+			"1": {
+				"keep_running": false,
+				"memory": 50,
+				"time": 37,
+				"verdict": "OK",
+				"response": []
+			}
+		},
+		{
+			"keep_running": false,
+			"memory": 61,
+			"output": {
+				"command": "request",
+				"content": {
+					"2": {
+						"stage": "deal",
+						"deliver": [
+							76
+						],
+						"global": {
+							"level": "2",
+							"banking": {
+								"called": 0,
+								"snatched": -1,
+								"major": "c",
+								"banker": 0
+							}
+						}
+					}
+				},
+				"display": {
+					"event": {
+						"currplayer": 1,
+						"action": "deal",
+						"poker": []
+					},
+					"deliver": {
+						"player": 2,
+						"poker": [
+							76
+						]
+					},
+					"publiccard": [
+						7,
+						47,
+						4,
+						54,
+						32,
+						8,
+						83,
+						87
+					]
+				}
+			},
+			"time": 180,
+			"verdict": "OK"
+		},
+		{
+			"2": {
+				"keep_running": false,
+				"memory": 50,
+				"time": 35,
+				"verdict": "OK",
+				"response": []
+			}
+		},
+		{
+			"keep_running": false,
+			"memory": 61,
+			"output": {
+				"command": "request",
+				"content": {
+					"3": {
+						"stage": "deal",
+						"deliver": [
+							1
+						],
+						"global": {
+							"level": "2",
+							"banking": {
+								"called": 0,
+								"snatched": -1,
+								"major": "c",
+								"banker": 0
+							}
+						}
+					}
+				},
+				"display": {
+					"event": {
+						"currplayer": 2,
+						"action": "deal",
+						"poker": []
+					},
+					"deliver": {
+						"player": 3,
+						"poker": [
+							1
+						]
+					},
+					"publiccard": [
+						7,
+						47,
+						4,
+						54,
+						32,
+						8,
+						83,
+						87
+					]
+				}
+			},
+			"time": 178,
+			"verdict": "OK"
+		},
+		{
+			"3": {
+				"keep_running": false,
+				"memory": 50,
+				"time": 34,
+				"verdict": "OK",
+				"response": []
+			}
+		},
+		{
+			"keep_running": false,
+			"memory": 61,
+			"output": {
+				"command": "request",
+				"content": {
+					"0": {
+						"stage": "deal",
+						"deliver": [
+							106
+						],
+						"global": {
+							"level": "2",
+							"banking": {
+								"called": 0,
+								"snatched": -1,
+								"major": "c",
+								"banker": 0
+							}
+						}
+					}
+				},
+				"display": {
+					"event": {
+						"currplayer": 3,
+						"action": "deal",
+						"poker": []
+					},
+					"deliver": {
+						"player": 0,
+						"poker": [
+							106
+						]
+					},
+					"publiccard": [
+						7,
+						47,
+						4,
+						54,
+						32,
+						8,
+						83,
+						87
+					]
+				}
+			},
+			"time": 174,
+			"verdict": "OK"
+		},
+		{
+			"0": {
+				"content": [],
+				"response": [],
+				"verdict": "OK"
+			}
+		},
+		{
+			"keep_running": false,
+			"memory": 61,
+			"output": {
+				"command": "request",
+				"content": {
+					"1": {
+						"stage": "deal",
+						"deliver": [
+							2
+						],
+						"global": {
+							"level": "2",
+							"banking": {
+								"called": 0,
+								"snatched": -1,
+								"major": "c",
+								"banker": 0
+							}
+						}
+					}
+				},
+				"display": {
+					"event": {
+						"currplayer": 0,
+						"action": "deal",
+						"poker": []
+					},
+					"deliver": {
+						"player": 1,
+						"poker": [
+							2
+						]
+					},
+					"publiccard": [
+						7,
+						47,
+						4,
+						54,
+						32,
+						8,
+						83,
+						87
+					]
+				}
+			},
+			"time": 193,
+			"verdict": "OK"
+		},
+		{
+			"1": {
+				"keep_running": false,
+				"memory": 50,
+				"time": 35,
+				"verdict": "OK",
+				"response": []
+			}
+		},
+		{
+			"keep_running": false,
+			"memory": 61,
+			"output": {
+				"command": "request",
+				"content": {
+					"2": {
+						"stage": "deal",
+						"deliver": [
+							68
+						],
+						"global": {
+							"level": "2",
+							"banking": {
+								"called": 0,
+								"snatched": -1,
+								"major": "c",
+								"banker": 0
+							}
+						}
+					}
+				},
+				"display": {
+					"event": {
+						"currplayer": 1,
+						"action": "deal",
+						"poker": []
+					},
+					"deliver": {
+						"player": 2,
+						"poker": [
+							68
+						]
+					},
+					"publiccard": [
+						7,
+						47,
+						4,
+						54,
+						32,
+						8,
+						83,
+						87
+					]
+				}
+			},
+			"time": 173,
+			"verdict": "OK"
+		},
+		{
+			"2": {
+				"keep_running": false,
+				"memory": 50,
+				"time": 35,
+				"verdict": "OK",
+				"response": []
+			}
+		},
+		{
+			"keep_running": false,
+			"memory": 61,
+			"output": {
+				"command": "request",
+				"content": {
+					"3": {
+						"stage": "deal",
+						"deliver": [
+							42
+						],
+						"global": {
+							"level": "2",
+							"banking": {
+								"called": 0,
+								"snatched": -1,
+								"major": "c",
+								"banker": 0
+							}
+						}
+					}
+				},
+				"display": {
+					"event": {
+						"currplayer": 2,
+						"action": "deal",
+						"poker": []
+					},
+					"deliver": {
+						"player": 3,
+						"poker": [
+							42
+						]
+					},
+					"publiccard": [
+						7,
+						47,
+						4,
+						54,
+						32,
+						8,
+						83,
+						87
+					]
+				}
+			},
+			"time": 175,
+			"verdict": "OK"
+		},
+		{
+			"3": {
+				"keep_running": false,
+				"memory": 50,
+				"time": 36,
+				"verdict": "OK",
+				"response": []
+			}
+		},
+		{
+			"keep_running": false,
+			"memory": 61,
+			"output": {
+				"command": "request",
+				"content": {
+					"0": {
+						"stage": "deal",
+						"deliver": [
+							88
+						],
+						"global": {
+							"level": "2",
+							"banking": {
+								"called": 0,
+								"snatched": -1,
+								"major": "c",
+								"banker": 0
+							}
+						}
+					}
+				},
+				"display": {
+					"event": {
+						"currplayer": 3,
+						"action": "deal",
+						"poker": []
+					},
+					"deliver": {
+						"player": 0,
+						"poker": [
+							88
+						]
+					},
+					"publiccard": [
+						7,
+						47,
+						4,
+						54,
+						32,
+						8,
+						83,
+						87
+					]
+				}
+			},
+			"time": 169,
+			"verdict": "OK"
+		},
+		{
+			"0": {
+				"content": [],
+				"response": [],
+				"verdict": "OK"
+			}
+		},
+		{
+			"keep_running": false,
+			"memory": 61,
+			"output": {
+				"command": "request",
+				"content": {
+					"1": {
+						"stage": "deal",
+						"deliver": [
+							0
+						],
+						"global": {
+							"level": "2",
+							"banking": {
+								"called": 0,
+								"snatched": -1,
+								"major": "c",
+								"banker": 0
+							}
+						}
+					}
+				},
+				"display": {
+					"event": {
+						"currplayer": 0,
+						"action": "deal",
+						"poker": []
+					},
+					"deliver": {
+						"player": 1,
+						"poker": [
+							0
+						]
+					},
+					"publiccard": [
+						7,
+						47,
+						4,
+						54,
+						32,
+						8,
+						83,
+						87
+					]
+				}
+			},
+			"time": 166,
+			"verdict": "OK"
+		},
+		{
+			"1": {
+				"keep_running": false,
+				"memory": 50,
+				"time": 35,
+				"verdict": "OK",
+				"response": []
+			}
+		},
+		{
+			"keep_running": false,
+			"memory": 61,
+			"output": {
+				"command": "request",
+				"content": {
+					"2": {
+						"stage": "deal",
+						"deliver": [
+							63
+						],
+						"global": {
+							"level": "2",
+							"banking": {
+								"called": 0,
+								"snatched": -1,
+								"major": "c",
+								"banker": 0
+							}
+						}
+					}
+				},
+				"display": {
+					"event": {
+						"currplayer": 1,
+						"action": "deal",
+						"poker": []
+					},
+					"deliver": {
+						"player": 2,
+						"poker": [
+							63
+						]
+					},
+					"publiccard": [
+						7,
+						47,
+						4,
+						54,
+						32,
+						8,
+						83,
+						87
+					]
+				}
+			},
+			"time": 172,
+			"verdict": "OK"
+		},
+		{
+			"2": {
+				"keep_running": false,
+				"memory": 50,
+				"time": 36,
+				"verdict": "OK",
+				"response": []
+			}
+		},
+		{
+			"keep_running": false,
+			"memory": 61,
+			"output": {
+				"command": "request",
+				"content": {
+					"3": {
+						"stage": "deal",
+						"deliver": [
+							30
+						],
+						"global": {
+							"level": "2",
+							"banking": {
+								"called": 0,
+								"snatched": -1,
+								"major": "c",
+								"banker": 0
+							}
+						}
+					}
+				},
+				"display": {
+					"event": {
+						"currplayer": 2,
+						"action": "deal",
+						"poker": []
+					},
+					"deliver": {
+						"player": 3,
+						"poker": [
+							30
+						]
+					},
+					"publiccard": [
+						7,
+						47,
+						4,
+						54,
+						32,
+						8,
+						83,
+						87
+					]
+				}
+			},
+			"time": 175,
+			"verdict": "OK"
+		},
+		{
+			"3": {
+				"keep_running": false,
+				"memory": 50,
+				"time": 35,
+				"verdict": "OK",
+				"response": []
+			}
+		},
+		{
+			"keep_running": false,
+			"memory": 61,
+			"output": {
+				"command": "request",
+				"content": {
+					"0": {
+						"stage": "deal",
+						"deliver": [
+							9
+						],
+						"global": {
+							"level": "2",
+							"banking": {
+								"called": 0,
+								"snatched": -1,
+								"major": "c",
+								"banker": 0
+							}
+						}
+					}
+				},
+				"display": {
+					"event": {
+						"currplayer": 3,
+						"action": "deal",
+						"poker": []
+					},
+					"deliver": {
+						"player": 0,
+						"poker": [
+							9
+						]
+					},
+					"publiccard": [
+						7,
+						47,
+						4,
+						54,
+						32,
+						8,
+						83,
+						87
+					]
+				}
+			},
+			"time": 168,
+			"verdict": "OK"
+		},
+		{
+			"0": {
+				"content": [],
+				"response": [],
+				"verdict": "OK"
+			}
+		},
+		{
+			"keep_running": false,
+			"memory": 61,
+			"output": {
+				"command": "request",
+				"content": {
+					"1": {
+						"stage": "deal",
+						"deliver": [
+							97
+						],
+						"global": {
+							"level": "2",
+							"banking": {
+								"called": 0,
+								"snatched": -1,
+								"major": "c",
+								"banker": 0
+							}
+						}
+					}
+				},
+				"display": {
+					"event": {
+						"currplayer": 0,
+						"action": "deal",
+						"poker": []
+					},
+					"deliver": {
+						"player": 1,
+						"poker": [
+							97
+						]
+					},
+					"publiccard": [
+						7,
+						47,
+						4,
+						54,
+						32,
+						8,
+						83,
+						87
+					]
+				}
+			},
+			"time": 178,
+			"verdict": "OK"
+		},
+		{
+			"1": {
+				"keep_running": false,
+				"memory": 51,
+				"time": 37,
+				"verdict": "OK",
+				"response": []
+			}
+		},
+		{
+			"keep_running": false,
+			"memory": 61,
+			"output": {
+				"command": "request",
+				"content": {
+					"2": {
+						"stage": "deal",
+						"deliver": [
+							94
+						],
+						"global": {
+							"level": "2",
+							"banking": {
+								"called": 0,
+								"snatched": -1,
+								"major": "c",
+								"banker": 0
+							}
+						}
+					}
+				},
+				"display": {
+					"event": {
+						"currplayer": 1,
+						"action": "deal",
+						"poker": []
+					},
+					"deliver": {
+						"player": 2,
+						"poker": [
+							94
+						]
+					},
+					"publiccard": [
+						7,
+						47,
+						4,
+						54,
+						32,
+						8,
+						83,
+						87
+					]
+				}
+			},
+			"time": 181,
+			"verdict": "OK"
+		},
+		{
+			"2": {
+				"keep_running": false,
+				"memory": 51,
+				"time": 36,
+				"verdict": "OK",
+				"response": []
+			}
+		},
+		{
+			"keep_running": false,
+			"memory": 61,
+			"output": {
+				"command": "request",
+				"content": {
+					"3": {
+						"stage": "deal",
+						"deliver": [
+							49
+						],
+						"global": {
+							"level": "2",
+							"banking": {
+								"called": 0,
+								"snatched": -1,
+								"major": "c",
+								"banker": 0
+							}
+						}
+					}
+				},
+				"display": {
+					"event": {
+						"currplayer": 2,
+						"action": "deal",
+						"poker": []
+					},
+					"deliver": {
+						"player": 3,
+						"poker": [
+							49
+						]
+					},
+					"publiccard": [
+						7,
+						47,
+						4,
+						54,
+						32,
+						8,
+						83,
+						87
+					]
+				}
+			},
+			"time": 175,
+			"verdict": "OK"
+		},
+		{
+			"3": {
+				"keep_running": false,
+				"memory": 50,
+				"time": 35,
+				"verdict": "OK",
+				"response": []
+			}
+		},
+		{
+			"keep_running": false,
+			"memory": 61,
+			"output": {
+				"command": "request",
+				"content": {
+					"0": {
+						"stage": "deal",
+						"deliver": [
+							66
+						],
+						"global": {
+							"level": "2",
+							"banking": {
+								"called": 0,
+								"snatched": -1,
+								"major": "c",
+								"banker": 0
+							}
+						}
+					}
+				},
+				"display": {
+					"event": {
+						"currplayer": 3,
+						"action": "deal",
+						"poker": []
+					},
+					"deliver": {
+						"player": 0,
+						"poker": [
+							66
+						]
+					},
+					"publiccard": [
+						7,
+						47,
+						4,
+						54,
+						32,
+						8,
+						83,
+						87
+					]
+				}
+			},
+			"time": 171,
+			"verdict": "OK"
+		},
+		{
+			"0": {
+				"content": [],
+				"response": [],
+				"verdict": "OK"
+			}
+		},
+		{
+			"keep_running": false,
+			"memory": 62,
+			"output": {
+				"command": "request",
+				"content": {
+					"1": {
+						"stage": "deal",
+						"deliver": [
+							98
+						],
+						"global": {
+							"level": "2",
+							"banking": {
+								"called": 0,
+								"snatched": -1,
+								"major": "c",
+								"banker": 0
+							}
+						}
+					}
+				},
+				"display": {
+					"event": {
+						"currplayer": 0,
+						"action": "deal",
+						"poker": []
+					},
+					"deliver": {
+						"player": 1,
+						"poker": [
+							98
+						]
+					},
+					"publiccard": [
+						7,
+						47,
+						4,
+						54,
+						32,
+						8,
+						83,
+						87
+					]
+				}
+			},
+			"time": 182,
+			"verdict": "OK"
+		},
+		{
+			"1": {
+				"keep_running": false,
+				"memory": 50,
+				"time": 35,
+				"verdict": "OK",
+				"response": []
+			}
+		},
+		{
+			"keep_running": false,
+			"memory": 62,
+			"output": {
+				"command": "request",
+				"content": {
+					"2": {
+						"stage": "deal",
+						"deliver": [
+							53
+						],
+						"global": {
+							"level": "2",
+							"banking": {
+								"called": 0,
+								"snatched": -1,
+								"major": "c",
+								"banker": 0
+							}
+						}
+					}
+				},
+				"display": {
+					"event": {
+						"currplayer": 1,
+						"action": "deal",
+						"poker": []
+					},
+					"deliver": {
+						"player": 2,
+						"poker": [
+							53
+						]
+					},
+					"publiccard": [
+						7,
+						47,
+						4,
+						54,
+						32,
+						8,
+						83,
+						87
+					]
+				}
+			},
+			"time": 167,
+			"verdict": "OK"
+		},
+		{
+			"2": {
+				"keep_running": false,
+				"memory": 50,
+				"time": 36,
+				"verdict": "OK",
+				"response": []
+			}
+		},
+		{
+			"keep_running": false,
+			"memory": 62,
+			"output": {
+				"command": "request",
+				"content": {
+					"3": {
+						"stage": "deal",
+						"deliver": [
+							11
+						],
+						"global": {
+							"level": "2",
+							"banking": {
+								"called": 0,
+								"snatched": -1,
+								"major": "c",
+								"banker": 0
+							}
+						}
+					}
+				},
+				"display": {
+					"event": {
+						"currplayer": 2,
+						"action": "deal",
+						"poker": []
+					},
+					"deliver": {
+						"player": 3,
+						"poker": [
+							11
+						]
+					},
+					"publiccard": [
+						7,
+						47,
+						4,
+						54,
+						32,
+						8,
+						83,
+						87
+					]
+				}
+			},
+			"time": 170,
+			"verdict": "OK"
+		},
+		{
+			"3": {
+				"keep_running": false,
+				"memory": 50,
+				"time": 36,
+				"verdict": "OK",
+				"response": []
+			}
+		},
+		{
+			"keep_running": false,
+			"memory": 62,
+			"output": {
+				"command": "request",
+				"content": {
+					"0": {
+						"stage": "deal",
+						"deliver": [
+							103
+						],
+						"global": {
+							"level": "2",
+							"banking": {
+								"called": 0,
+								"snatched": -1,
+								"major": "c",
+								"banker": 0
+							}
+						}
+					}
+				},
+				"display": {
+					"event": {
+						"currplayer": 3,
+						"action": "deal",
+						"poker": []
+					},
+					"deliver": {
+						"player": 0,
+						"poker": [
+							103
+						]
+					},
+					"publiccard": [
+						7,
+						47,
+						4,
+						54,
+						32,
+						8,
+						83,
+						87
+					]
+				}
+			},
+			"time": 171,
+			"verdict": "OK"
+		},
+		{
+			"0": {
+				"content": [],
+				"response": [],
+				"verdict": "OK"
+			}
+		},
+		{
+			"keep_running": false,
+			"memory": 62,
+			"output": {
+				"command": "request",
+				"content": {
+					"1": {
+						"stage": "deal",
+						"deliver": [
+							15
+						],
+						"global": {
+							"level": "2",
+							"banking": {
+								"called": 0,
+								"snatched": -1,
+								"major": "c",
+								"banker": 0
+							}
+						}
+					}
+				},
+				"display": {
+					"event": {
+						"currplayer": 0,
+						"action": "deal",
+						"poker": []
+					},
+					"deliver": {
+						"player": 1,
+						"poker": [
+							15
+						]
+					},
+					"publiccard": [
+						7,
+						47,
+						4,
+						54,
+						32,
+						8,
+						83,
+						87
+					]
+				}
+			},
+			"time": 169,
+			"verdict": "OK"
+		},
+		{
+			"1": {
+				"keep_running": false,
+				"memory": 50,
+				"time": 35,
+				"verdict": "OK",
+				"response": []
+			}
+		},
+		{
+			"keep_running": false,
+			"memory": 62,
+			"output": {
+				"command": "request",
+				"content": {
+					"2": {
+						"stage": "deal",
+						"deliver": [
+							95
+						],
+						"global": {
+							"level": "2",
+							"banking": {
+								"called": 0,
+								"snatched": -1,
+								"major": "c",
+								"banker": 0
+							}
+						}
+					}
+				},
+				"display": {
+					"event": {
+						"currplayer": 1,
+						"action": "deal",
+						"poker": []
+					},
+					"deliver": {
+						"player": 2,
+						"poker": [
+							95
+						]
+					},
+					"publiccard": [
+						7,
+						47,
+						4,
+						54,
+						32,
+						8,
+						83,
+						87
+					]
+				}
+			},
+			"time": 169,
+			"verdict": "OK"
+		},
+		{
+			"2": {
+				"keep_running": false,
+				"memory": 50,
+				"time": 35,
+				"verdict": "OK",
+				"response": []
+			}
+		},
+		{
+			"keep_running": false,
+			"memory": 62,
+			"output": {
+				"command": "request",
+				"content": {
+					"3": {
+						"stage": "deal",
+						"deliver": [
+							62
+						],
+						"global": {
+							"level": "2",
+							"banking": {
+								"called": 0,
+								"snatched": -1,
+								"major": "c",
+								"banker": 0
+							}
+						}
+					}
+				},
+				"display": {
+					"event": {
+						"currplayer": 2,
+						"action": "deal",
+						"poker": []
+					},
+					"deliver": {
+						"player": 3,
+						"poker": [
+							62
+						]
+					},
+					"publiccard": [
+						7,
+						47,
+						4,
+						54,
+						32,
+						8,
+						83,
+						87
+					]
+				}
+			},
+			"time": 166,
+			"verdict": "OK"
+		},
+		{
+			"3": {
+				"keep_running": false,
+				"memory": 50,
+				"time": 37,
+				"verdict": "OK",
+				"response": []
+			}
+		},
+		{
+			"keep_running": false,
+			"memory": 62,
+			"output": {
+				"command": "request",
+				"content": {
+					"0": {
+						"stage": "deal",
+						"deliver": [
+							14
+						],
+						"global": {
+							"level": "2",
+							"banking": {
+								"called": 0,
+								"snatched": -1,
+								"major": "c",
+								"banker": 0
+							}
+						}
+					}
+				},
+				"display": {
+					"event": {
+						"currplayer": 3,
+						"action": "deal",
+						"poker": []
+					},
+					"deliver": {
+						"player": 0,
+						"poker": [
+							14
+						]
+					},
+					"publiccard": [
+						7,
+						47,
+						4,
+						54,
+						32,
+						8,
+						83,
+						87
+					]
+				}
+			},
+			"time": 167,
+			"verdict": "OK"
+		},
+		{
+			"0": {
+				"content": [],
+				"response": [],
+				"verdict": "OK"
+			}
+		},
+		{
+			"keep_running": false,
+			"memory": 62,
+			"output": {
+				"command": "request",
+				"content": {
+					"1": {
+						"stage": "deal",
+						"deliver": [
+							77
+						],
+						"global": {
+							"level": "2",
+							"banking": {
+								"called": 0,
+								"snatched": -1,
+								"major": "c",
+								"banker": 0
+							}
+						}
+					}
+				},
+				"display": {
+					"event": {
+						"currplayer": 0,
+						"action": "deal",
+						"poker": []
+					},
+					"deliver": {
+						"player": 1,
+						"poker": [
+							77
+						]
+					},
+					"publiccard": [
+						7,
+						47,
+						4,
+						54,
+						32,
+						8,
+						83,
+						87
+					]
+				}
+			},
+			"time": 188,
+			"verdict": "OK"
+		},
+		{
+			"1": {
+				"keep_running": false,
+				"memory": 50,
+				"time": 36,
+				"verdict": "OK",
+				"response": []
+			}
+		},
+		{
+			"keep_running": false,
+			"memory": 62,
+			"output": {
+				"command": "request",
+				"content": {
+					"2": {
+						"stage": "deal",
+						"deliver": [
+							59
+						],
+						"global": {
+							"level": "2",
+							"banking": {
+								"called": 0,
+								"snatched": -1,
+								"major": "c",
+								"banker": 0
+							}
+						}
+					}
+				},
+				"display": {
+					"event": {
+						"currplayer": 1,
+						"action": "deal",
+						"poker": []
+					},
+					"deliver": {
+						"player": 2,
+						"poker": [
+							59
+						]
+					},
+					"publiccard": [
+						7,
+						47,
+						4,
+						54,
+						32,
+						8,
+						83,
+						87
+					]
+				}
+			},
+			"time": 172,
+			"verdict": "OK"
+		},
+		{
+			"2": {
+				"keep_running": false,
+				"memory": 50,
+				"time": 36,
+				"verdict": "OK",
+				"response": []
+			}
+		},
+		{
+			"keep_running": false,
+			"memory": 62,
+			"output": {
+				"command": "request",
+				"content": {
+					"3": {
+						"stage": "deal",
+						"deliver": [
+							93
+						],
+						"global": {
+							"level": "2",
+							"banking": {
+								"called": 0,
+								"snatched": -1,
+								"major": "c",
+								"banker": 0
+							}
+						}
+					}
+				},
+				"display": {
+					"event": {
+						"currplayer": 2,
+						"action": "deal",
+						"poker": []
+					},
+					"deliver": {
+						"player": 3,
+						"poker": [
+							93
+						]
+					},
+					"publiccard": [
+						7,
+						47,
+						4,
+						54,
+						32,
+						8,
+						83,
+						87
+					]
+				}
+			},
+			"time": 176,
+			"verdict": "OK"
+		},
+		{
+			"3": {
+				"keep_running": false,
+				"memory": 50,
+				"time": 37,
+				"verdict": "OK",
+				"response": []
+			}
+		},
+		{
+			"keep_running": false,
+			"memory": 62,
+			"output": {
+				"command": "request",
+				"content": {
+					"0": {
+						"stage": "deal",
+						"deliver": [
+							39
+						],
+						"global": {
+							"level": "2",
+							"banking": {
+								"called": 0,
+								"snatched": -1,
+								"major": "c",
+								"banker": 0
+							}
+						}
+					}
+				},
+				"display": {
+					"event": {
+						"currplayer": 3,
+						"action": "deal",
+						"poker": []
+					},
+					"deliver": {
+						"player": 0,
+						"poker": [
+							39
+						]
+					},
+					"publiccard": [
+						7,
+						47,
+						4,
+						54,
+						32,
+						8,
+						83,
+						87
+					]
+				}
+			},
+			"time": 173,
+			"verdict": "OK"
+		},
+		{
+			"0": {
+				"content": [],
+				"response": [],
+				"verdict": "OK"
+			}
+		},
+		{
+			"keep_running": false,
+			"memory": 62,
+			"output": {
+				"command": "request",
+				"content": {
+					"1": {
+						"stage": "deal",
+						"deliver": [
+							23
+						],
+						"global": {
+							"level": "2",
+							"banking": {
+								"called": 0,
+								"snatched": -1,
+								"major": "c",
+								"banker": 0
+							}
+						}
+					}
+				},
+				"display": {
+					"event": {
+						"currplayer": 0,
+						"action": "deal",
+						"poker": []
+					},
+					"deliver": {
+						"player": 1,
+						"poker": [
+							23
+						]
+					},
+					"publiccard": [
+						7,
+						47,
+						4,
+						54,
+						32,
+						8,
+						83,
+						87
+					]
+				}
+			},
+			"time": 172,
+			"verdict": "OK"
+		},
+		{
+			"1": {
+				"keep_running": false,
+				"memory": 50,
+				"time": 36,
+				"verdict": "OK",
+				"response": []
+			}
+		},
+		{
+			"keep_running": false,
+			"memory": 62,
+			"output": {
+				"command": "request",
+				"content": {
+					"2": {
+						"stage": "deal",
+						"deliver": [
+							37
+						],
+						"global": {
+							"level": "2",
+							"banking": {
+								"called": 0,
+								"snatched": -1,
+								"major": "c",
+								"banker": 0
+							}
+						}
+					}
+				},
+				"display": {
+					"event": {
+						"currplayer": 1,
+						"action": "deal",
+						"poker": []
+					},
+					"deliver": {
+						"player": 2,
+						"poker": [
+							37
+						]
+					},
+					"publiccard": [
+						7,
+						47,
+						4,
+						54,
+						32,
+						8,
+						83,
+						87
+					]
+				}
+			},
+			"time": 176,
+			"verdict": "OK"
+		},
+		{
+			"2": {
+				"keep_running": false,
+				"memory": 50,
+				"time": 36,
+				"verdict": "OK",
+				"response": []
+			}
+		},
+		{
+			"keep_running": false,
+			"memory": 62,
+			"output": {
+				"command": "request",
+				"content": {
+					"3": {
+						"stage": "deal",
+						"deliver": [
+							16
+						],
+						"global": {
+							"level": "2",
+							"banking": {
+								"called": 0,
+								"snatched": -1,
+								"major": "c",
+								"banker": 0
+							}
+						}
+					}
+				},
+				"display": {
+					"event": {
+						"currplayer": 2,
+						"action": "deal",
+						"poker": []
+					},
+					"deliver": {
+						"player": 3,
+						"poker": [
+							16
+						]
+					},
+					"publiccard": [
+						7,
+						47,
+						4,
+						54,
+						32,
+						8,
+						83,
+						87
+					]
+				}
+			},
+			"time": 174,
+			"verdict": "OK"
+		},
+		{
+			"3": {
+				"keep_running": false,
+				"memory": 50,
+				"time": 35,
+				"verdict": "OK",
+				"response": []
+			}
+		},
+		{
+			"keep_running": false,
+			"memory": 62,
+			"output": {
+				"command": "request",
+				"content": {
+					"0": {
+						"stage": "cover",
+						"deliver": [
+							7,
+							47,
+							4,
+							54,
+							32,
+							8,
+							83,
+							87
+						],
+						"global": {
+							"level": "2",
+							"banking": {
+								"called": 0,
+								"snatched": -1,
+								"major": "c",
+								"banker": 0
+							}
+						}
+					}
+				},
+				"display": {
+					"event": {
+						"currplayer": 3,
+						"action": "deal",
+						"poker": []
+					},
+					"deliver": {
+						"player": 0,
+						"poker": [
+							7,
+							47,
+							4,
+							54,
+							32,
+							8,
+							83,
+							87
+						],
+						"banking": {
+							"called": 0,
+							"snatched": -1,
+							"major": "c",
+							"banker": 0
+						}
+					},
+					"publiccard": [
+						7,
+						47,
+						4,
+						54,
+						32,
+						8,
+						83,
+						87
+					]
+				}
+			},
+			"time": 174,
+			"verdict": "OK"
+		},
+		{
+			"0": {
+				"content": [
+					32,
+					87,
+					88,
+					35,
+					91,
+					38,
+					39,
+					40
+				],
+				"response": [
+					32,
+					87,
+					88,
+					35,
+					91,
+					38,
+					39,
+					40
+				],
+				"verdict": "OK"
+			}
+		},
+		{
+			"keep_running": false,
+			"memory": 62,
+			"output": {
+				"command": "request",
+				"content": {
+					"0": {
+						"stage": "play",
+						"history": [
+							[],
+							[],
+							0,
+							0
+						],
+						"global": {
+							"level": "2",
+							"banking": {
+								"called": 0,
+								"snatched": -1,
+								"major": "c",
+								"banker": 0
+							},
+							"total_score": 0
+						}
+					}
+				},
+				"display": {
+					"event": {
+						"currplayer": 0,
+						"action": "cover",
+						"poker": [
+							32,
+							87,
+							88,
+							35,
+							91,
+							38,
+							39,
+							40
+						]
+					},
+					"publiccard": [
+						32,
+						87,
+						88,
+						35,
+						91,
+						38,
+						39,
+						40
+					]
+				}
+			},
+			"time": 198,
+			"verdict": "OK"
+		},
+		{
+			"0": {
+				"content": [
+					54
+				],
+				"response": [
+					54
+				],
+				"verdict": "OK"
+			}
+		},
+		{
+			"keep_running": false,
+			"memory": 62,
+			"output": {
+				"command": "request",
+				"content": {
+					"1": {
+						"stage": "play",
+						"history": [
+							[],
+							[
+								[
+									54
+								]
+							],
+							0,
+							0
+						],
+						"global": {
+							"level": "2",
+							"banking": {
+								"called": 0,
+								"snatched": -1,
+								"major": "c",
+								"banker": 0
+							},
+							"total_score": 0
+						}
+					}
+				},
+				"display": {
+					"event": {
+						"currplayer": 0,
+						"action": "play",
+						"poker": [
+							54
+						]
+					}
+				}
+			},
+			"time": 211,
+			"verdict": "OK"
+		},
+		{
+			"1": {
+				"keep_running": false,
+				"memory": 50,
+				"time": 39,
+				"verdict": "OK",
+				"response": [
+					24
+				]
+			}
+		},
+		{
+			"keep_running": false,
+			"memory": 62,
+			"output": {
+				"command": "request",
+				"content": {
+					"2": {
+						"stage": "play",
+						"history": [
+							[],
+							[
+								[
+									54
+								],
+								[
+									24
+								]
+							],
+							0,
+							0
+						],
+						"global": {
+							"level": "2",
+							"banking": {
+								"called": 0,
+								"snatched": -1,
+								"major": "c",
+								"banker": 0
+							},
+							"total_score": 0
+						}
+					}
+				},
+				"display": {
+					"event": {
+						"currplayer": 1,
+						"action": "play",
+						"poker": [
+							24
+						]
+					}
+				}
+			},
+			"time": 177,
+			"verdict": "OK"
+		},
+		{
+			"2": {
+				"keep_running": false,
+				"memory": 50,
+				"time": 38,
+				"verdict": "OK",
+				"response": [
+					78
+				]
+			}
+		},
+		{
+			"keep_running": false,
+			"memory": 62,
+			"output": {
+				"command": "request",
+				"content": {
+					"3": {
+						"stage": "play",
+						"history": [
+							[],
+							[
+								[
+									54
+								],
+								[
+									24
+								],
+								[
+									78
+								]
+							],
+							0,
+							0
+						],
+						"global": {
+							"level": "2",
+							"banking": {
+								"called": 0,
+								"snatched": -1,
+								"major": "c",
+								"banker": 0
+							},
+							"total_score": 0
+						}
+					}
+				},
+				"display": {
+					"event": {
+						"currplayer": 2,
+						"action": "play",
+						"poker": [
+							78
+						]
+					}
+				}
+			},
+			"time": 178,
+			"verdict": "OK"
+		},
+		{
+			"3": {
+				"keep_running": false,
+				"memory": 50,
+				"time": 38,
+				"verdict": "OK",
+				"response": [
+					86
+				]
+			}
+		},
+		{
+			"keep_running": false,
+			"memory": 62,
+			"output": {
+				"command": "request",
+				"content": {
+					"0": {
+						"stage": "play",
+						"history": [
+							[
+								[
+									54
+								],
+								[
+									24
+								],
+								[
+									78
+								],
+								[
+									86
+								]
+							],
+							[],
+							0,
+							0
+						],
+						"global": {
+							"level": "2",
+							"banking": {
+								"called": 0,
+								"snatched": -1,
+								"major": "c",
+								"banker": 0
+							},
+							"total_score": 0
+						}
+					}
+				},
+				"display": {
+					"event": {
+						"currplayer": 3,
+						"action": "play",
+						"poker": [
+							86
+						]
+					}
+				}
+			},
+			"time": 186,
+			"verdict": "OK"
+		},
+		{
+			"0": {
+				"content": [
+					61,
+					7
+				],
+				"response": [
+					61,
+					7
+				],
+				"verdict": "OK"
+			}
+		},
+		{
+			"keep_running": false,
+			"memory": 62,
+			"output": {
+				"command": "request",
+				"content": {
+					"1": {
+						"stage": "play",
+						"history": [
+							[
+								[
+									54
+								],
+								[
+									24
+								],
+								[
+									78
+								],
+								[
+									86
+								]
+							],
+							[
+								[
+									7,
+									61
+								]
+							],
+							0,
+							0
+						],
+						"global": {
+							"level": "2",
+							"banking": {
+								"called": 0,
+								"snatched": -1,
+								"major": "c",
+								"banker": 0
+							},
+							"total_score": 0
+						}
+					}
+				},
+				"display": {
+					"event": {
+						"currplayer": 0,
+						"action": "play",
+						"poker": [
+							7,
+							61
+						]
+					}
+				}
+			},
+			"time": 210,
+			"verdict": "OK"
+		},
+		{
+			"1": {
+				"keep_running": false,
+				"memory": 50,
+				"time": 38,
+				"verdict": "OK",
+				"response": [
+					23,
+					77
+				]
+			}
+		},
+		{
+			"keep_running": false,
+			"memory": 62,
+			"output": {
+				"command": "request",
+				"content": {
+					"2": {
+						"stage": "play",
+						"history": [
+							[
+								[
+									54
+								],
+								[
+									24
+								],
+								[
+									78
+								],
+								[
+									86
+								]
+							],
+							[
+								[
+									7,
+									61
+								],
+								[
+									23,
+									77
+								]
+							],
+							0,
+							0
+						],
+						"global": {
+							"level": "2",
+							"banking": {
+								"called": 0,
+								"snatched": -1,
+								"major": "c",
+								"banker": 0
+							},
+							"total_score": 0
+						}
+					}
+				},
+				"display": {
+					"event": {
+						"currplayer": 1,
+						"action": "play",
+						"poker": [
+							23,
+							77
+						]
+					}
+				}
+			},
+			"time": 187,
+			"verdict": "OK"
+		},
+		{
+			"2": {
+				"keep_running": false,
+				"memory": 50,
+				"time": 36,
+				"verdict": "OK",
+				"response": [
+					19,
+					105
+				]
+			}
+		},
+		{
+			"keep_running": false,
+			"memory": 62,
+			"output": {
+				"command": "request",
+				"content": {
+					"3": {
+						"stage": "play",
+						"history": [
+							[
+								[
+									54
+								],
+								[
+									24
+								],
+								[
+									78
+								],
+								[
+									86
+								]
+							],
+							[
+								[
+									7,
+									61
+								],
+								[
+									23,
+									77
+								],
+								[
+									19,
+									105
+								]
+							],
+							0,
+							0
+						],
+						"global": {
+							"level": "2",
+							"banking": {
+								"called": 0,
+								"snatched": -1,
+								"major": "c",
+								"banker": 0
+							},
+							"total_score": 0
+						}
+					}
+				},
+				"display": {
+					"event": {
+						"currplayer": 2,
+						"action": "play",
+						"poker": [
+							19,
+							105
+						]
+					}
+				}
+			},
+			"time": 184,
+			"verdict": "OK"
+		},
+		{
+			"3": {
+				"keep_running": false,
+				"memory": 50,
+				"time": 39,
+				"verdict": "OK",
+				"response": [
+					31,
+					85
+				]
+			}
+		},
+		{
+			"keep_running": false,
+			"memory": 62,
+			"output": {
+				"command": "request",
+				"content": {
+					"0": {
+						"stage": "play",
+						"history": [
+							[
+								[
+									7,
+									61
+								],
+								[
+									23,
+									77
+								],
+								[
+									19,
+									105
+								],
+								[
+									31,
+									85
+								]
+							],
+							[],
+							0,
+							0
+						],
+						"global": {
+							"level": "2",
+							"banking": {
+								"called": 0,
+								"snatched": -1,
+								"major": "c",
+								"banker": 0
+							},
+							"total_score": 0
+						}
+					}
+				},
+				"display": {
+					"event": {
+						"currplayer": 3,
+						"action": "play",
+						"poker": [
+							31,
+							85
+						]
+					}
+				}
+			},
+			"time": 179,
+			"verdict": "OK"
+		},
+		{
+			"0": {
+				"content": [
+					58,
+					4
+				],
+				"response": [
+					58,
+					4
+				],
+				"verdict": "OK"
+			}
+		},
+		{
+			"keep_running": false,
+			"memory": 62,
+			"output": {
+				"command": "request",
+				"content": {
+					"1": {
+						"stage": "play",
+						"history": [
+							[
+								[
+									7,
+									61
+								],
+								[
+									23,
+									77
+								],
+								[
+									19,
+									105
+								],
+								[
+									31,
+									85
+								]
+							],
+							[
+								[
+									4,
+									58
+								]
+							],
+							0,
+							0
+						],
+						"global": {
+							"level": "2",
+							"banking": {
+								"called": 0,
+								"snatched": -1,
+								"major": "c",
+								"banker": 0
+							},
+							"total_score": 0
+						}
+					}
+				},
+				"display": {
+					"event": {
+						"currplayer": 0,
+						"action": "play",
+						"poker": [
+							4,
+							58
+						]
+					}
+				}
+			},
+			"time": 194,
+			"verdict": "OK"
+		},
+		{
+			"1": {
+				"keep_running": false,
+				"memory": 50,
+				"time": 38,
+				"verdict": "OK",
+				"response": [
+					36,
+					90
+				]
+			}
+		},
+		{
+			"keep_running": false,
+			"memory": 62,
+			"output": {
+				"command": "request",
+				"content": {
+					"2": {
+						"stage": "play",
+						"history": [
+							[
+								[
+									7,
+									61
+								],
+								[
+									23,
+									77
+								],
+								[
+									19,
+									105
+								],
+								[
+									31,
+									85
+								]
+							],
+							[
+								[
+									4,
+									58
+								],
+								[
+									36,
+									90
+								]
+							],
+							0,
+							0
+						],
+						"global": {
+							"level": "2",
+							"banking": {
+								"called": 0,
+								"snatched": -1,
+								"major": "c",
+								"banker": 0
+							},
+							"total_score": 0
+						}
+					}
+				},
+				"display": {
+					"event": {
+						"currplayer": 1,
+						"action": "play",
+						"poker": [
+							36,
+							90
+						]
+					}
+				}
+			},
+			"time": 188,
+			"verdict": "OK"
+		},
+		{
+			"2": {
+				"keep_running": false,
+				"memory": 50,
+				"time": 39,
+				"verdict": "OK",
+				"response": [
+					48,
+					102
+				]
+			}
+		},
+		{
+			"keep_running": false,
+			"memory": 62,
+			"output": {
+				"command": "request",
+				"content": {
+					"3": {
+						"stage": "play",
+						"history": [
+							[
+								[
+									7,
+									61
+								],
+								[
+									23,
+									77
+								],
+								[
+									19,
+									105
+								],
+								[
+									31,
+									85
+								]
+							],
+							[
+								[
+									4,
+									58
+								],
+								[
+									36,
+									90
+								],
+								[
+									48,
+									102
+								]
+							],
+							0,
+							0
+						],
+						"global": {
+							"level": "2",
+							"banking": {
+								"called": 0,
+								"snatched": -1,
+								"major": "c",
+								"banker": 0
+							},
+							"total_score": 0
+						}
+					}
+				},
+				"display": {
+					"event": {
+						"currplayer": 2,
+						"action": "play",
+						"poker": [
+							48,
+							102
+						]
+					}
+				}
+			},
+			"time": 184,
+			"verdict": "OK"
+		},
+		{
+			"3": {
+				"keep_running": false,
+				"memory": 50,
+				"time": 38,
+				"verdict": "OK",
+				"response": [
+					12,
+					44
+				]
+			}
+		},
+		{
+			"keep_running": false,
+			"memory": 62,
+			"output": {
+				"command": "request",
+				"content": {
+					"0": {
+						"stage": "play",
+						"history": [
+							[
+								[
+									4,
+									58
+								],
+								[
+									36,
+									90
+								],
+								[
+									48,
+									102
+								],
+								[
+									12,
+									44
+								]
+							],
+							[],
+							0,
+							0
+						],
+						"global": {
+							"level": "2",
+							"banking": {
+								"called": 0,
+								"snatched": -1,
+								"major": "c",
+								"banker": 0
+							},
+							"total_score": 0
+						}
+					}
+				},
+				"display": {
+					"event": {
+						"currplayer": 3,
+						"action": "play",
+						"poker": [
+							12,
+							44
+						]
+					}
+				}
+			},
+			"time": 188,
+			"verdict": "OK"
+		},
+		{
+			"0": {
+				"content": [
+					106
+				],
+				"response": [
+					106
+				],
+				"verdict": "OK"
+			}
+		},
+		{
+			"keep_running": false,
+			"memory": 62,
+			"output": {
+				"command": "request",
+				"content": {
+					"1": {
+						"stage": "play",
+						"history": [
+							[
+								[
+									4,
+									58
+								],
+								[
+									36,
+									90
+								],
+								[
+									48,
+									102
+								],
+								[
+									12,
+									44
+								]
+							],
+							[
+								[
+									106
+								]
+							],
+							0,
+							0
+						],
+						"global": {
+							"level": "2",
+							"banking": {
+								"called": 0,
+								"snatched": -1,
+								"major": "c",
+								"banker": 0
+							},
+							"total_score": 0
+						}
+					}
+				},
+				"display": {
+					"event": {
+						"currplayer": 0,
+						"action": "play",
+						"poker": [
+							106
+						]
+					}
+				}
+			},
+			"time": 191,
+			"verdict": "OK"
+		},
+		{
+			"1": {
+				"keep_running": false,
+				"memory": 50,
+				"time": 38,
+				"verdict": "OK",
+				"response": [
+					73
+				]
+			}
+		},
+		{
+			"keep_running": false,
+			"memory": 62,
+			"output": {
+				"command": "request",
+				"content": {
+					"2": {
+						"stage": "play",
+						"history": [
+							[
+								[
+									4,
+									58
+								],
+								[
+									36,
+									90
+								],
+								[
+									48,
+									102
+								],
+								[
+									12,
+									44
+								]
+							],
+							[
+								[
+									106
+								],
+								[
+									73
+								]
+							],
+							0,
+							0
+						],
+						"global": {
+							"level": "2",
+							"banking": {
+								"called": 0,
+								"snatched": -1,
+								"major": "c",
+								"banker": 0
+							},
+							"total_score": 0
+						}
+					}
+				},
+				"display": {
+					"event": {
+						"currplayer": 1,
+						"action": "play",
+						"poker": [
+							73
+						]
+					}
+				}
+			},
+			"time": 175,
+			"verdict": "OK"
+		},
+		{
+			"2": {
+				"keep_running": false,
+				"memory": 50,
+				"time": 36,
+				"verdict": "OK",
+				"response": [
+					53
+				]
+			}
+		},
+		{
+			"keep_running": false,
+			"memory": 62,
+			"output": {
+				"command": "request",
+				"content": {
+					"3": {
+						"stage": "play",
+						"history": [
+							[
+								[
+									4,
+									58
+								],
+								[
+									36,
+									90
+								],
+								[
+									48,
+									102
+								],
+								[
+									12,
+									44
+								]
+							],
+							[
+								[
+									106
+								],
+								[
+									73
+								],
+								[
+									53
+								]
+							],
+							0,
+							0
+						],
+						"global": {
+							"level": "2",
+							"banking": {
+								"called": 0,
+								"snatched": -1,
+								"major": "c",
+								"banker": 0
+							},
+							"total_score": 0
+						}
+					}
+				},
+				"display": {
+					"event": {
+						"currplayer": 2,
+						"action": "play",
+						"poker": [
+							53
+						]
+					}
+				}
+			},
+			"time": 173,
+			"verdict": "OK"
+		},
+		{
+			"3": {
+				"keep_running": false,
+				"memory": 50,
+				"time": 34,
+				"verdict": "OK",
+				"response": [
+					52
+				]
+			}
+		},
+		{
+			"keep_running": false,
+			"memory": 62,
+			"output": {
+				"command": "request",
+				"content": {
+					"2": {
+						"stage": "play",
+						"history": [
+							[
+								[
+									106
+								],
+								[
+									73
+								],
+								[
+									53
+								],
+								[
+									52
+								]
+							],
+							[],
+							0,
+							2
+						],
+						"global": {
+							"level": "2",
+							"banking": {
+								"called": 0,
+								"snatched": -1,
+								"major": "c",
+								"banker": 0
+							},
+							"total_score": 0
+						}
+					}
+				},
+				"display": {
+					"event": {
+						"currplayer": 3,
+						"action": "play",
+						"poker": [
+							52
+						]
+					}
+				}
+			},
+			"time": 174,
+			"verdict": "OK"
+		},
+		{
+			"2": {
+				"keep_running": false,
+				"memory": 50,
+				"time": 35,
+				"verdict": "OK",
+				"response": [
+					22
+				]
+			}
+		},
+		{
+			"keep_running": false,
+			"memory": 62,
+			"output": {
+				"command": "request",
+				"content": {
+					"3": {
+						"stage": "play",
+						"history": [
+							[
+								[
+									106
+								],
+								[
+									73
+								],
+								[
+									53
+								],
+								[
+									52
+								]
+							],
+							[
+								[
+									22
+								]
+							],
+							0,
+							2
+						],
+						"global": {
+							"level": "2",
+							"banking": {
+								"called": 0,
+								"snatched": -1,
+								"major": "c",
+								"banker": 0
+							},
+							"total_score": 0
+						}
+					}
+				},
+				"display": {
+					"event": {
+						"currplayer": 2,
+						"action": "play",
+						"poker": [
+							22
+						]
+					}
+				}
+			},
+			"time": 175,
+			"verdict": "OK"
+		},
+		{
+			"3": {
+				"keep_running": false,
+				"memory": 50,
+				"time": 39,
+				"verdict": "OK",
+				"response": [
+					92
+				]
+			}
+		},
+		{
+			"keep_running": false,
+			"memory": 62,
+			"output": {
+				"command": "request",
+				"content": {
+					"0": {
+						"stage": "play",
+						"history": [
+							[
+								[
+									106
+								],
+								[
+									73
+								],
+								[
+									53
+								],
+								[
+									52
+								]
+							],
+							[
+								[
+									22
+								],
+								[
+									92
+								]
+							],
+							0,
+							2
+						],
+						"global": {
+							"level": "2",
+							"banking": {
+								"called": 0,
+								"snatched": -1,
+								"major": "c",
+								"banker": 0
+							},
+							"total_score": 0
+						}
+					}
+				},
+				"display": {
+					"event": {
+						"currplayer": 3,
+						"action": "play",
+						"poker": [
+							92
+						]
+					}
+				}
+			},
+			"time": 171,
+			"verdict": "OK"
+		},
+		{
+			"0": {
+				"content": [
+					46
+				],
+				"response": [
+					46
+				],
+				"verdict": "OK"
+			}
+		},
+		{
+			"keep_running": false,
+			"memory": 62,
+			"output": {
+				"command": "request",
+				"content": {
+					"1": {
+						"stage": "play",
+						"history": [
+							[
+								[
+									106
+								],
+								[
+									73
+								],
+								[
+									53
+								],
+								[
+									52
+								]
+							],
+							[
+								[
+									22
+								],
+								[
+									92
+								],
+								[
+									46
+								]
+							],
+							0,
+							2
+						],
+						"global": {
+							"level": "2",
+							"banking": {
+								"called": 0,
+								"snatched": -1,
+								"major": "c",
+								"banker": 0
+							},
+							"total_score": 0
+						}
+					}
+				},
+				"display": {
+					"event": {
+						"currplayer": 0,
+						"action": "play",
+						"poker": [
+							46
+						]
+					}
+				}
+			},
+			"time": 168,
+			"verdict": "OK"
+		},
+		{
+			"1": {
+				"keep_running": false,
+				"memory": 50,
+				"time": 33,
+				"verdict": "OK",
+				"response": [
+					80
+				]
+			}
+		},
+		{
+			"keep_running": false,
+			"memory": 62,
+			"output": {
+				"command": "request",
+				"content": {
+					"0": {
+						"stage": "play",
+						"history": [
+							[
+								[
+									22
+								],
+								[
+									92
+								],
+								[
+									46
+								],
+								[
+									80
+								]
+							],
+							[],
+							2,
+							0
+						],
+						"global": {
+							"level": "2",
+							"banking": {
+								"called": 0,
+								"snatched": -1,
+								"major": "c",
+								"banker": 0
+							},
+							"total_score": 0
+						}
+					}
+				},
+				"display": {
+					"event": {
+						"currplayer": 1,
+						"action": "play",
+						"poker": [
+							80
+						]
+					}
+				}
+			},
+			"time": 166,
+			"verdict": "OK"
+		},
+		{
+			"0": {
+				"content": [
+					103
+				],
+				"response": [
+					103
+				],
+				"verdict": "OK"
+			}
+		},
+		{
+			"keep_running": false,
+			"memory": 62,
+			"output": {
+				"command": "request",
+				"content": {
+					"1": {
+						"stage": "play",
+						"history": [
+							[
+								[
+									22
+								],
+								[
+									92
+								],
+								[
+									46
+								],
+								[
+									80
+								]
+							],
+							[
+								[
+									103
+								]
+							],
+							2,
+							0
+						],
+						"global": {
+							"level": "2",
+							"banking": {
+								"called": 0,
+								"snatched": -1,
+								"major": "c",
+								"banker": 0
+							},
+							"total_score": 0
+						}
+					}
+				},
+				"display": {
+					"event": {
+						"currplayer": 0,
+						"action": "play",
+						"poker": [
+							103
+						]
+					}
+				}
+			},
+			"time": 165,
+			"verdict": "OK"
+		},
+		{
+			"1": {
+				"keep_running": false,
+				"memory": 50,
+				"time": 34,
+				"verdict": "OK",
+				"response": [
+					67
+				]
+			}
+		},
+		{
+			"keep_running": false,
+			"memory": 62,
+			"output": {
+				"command": "request",
+				"content": {
+					"2": {
+						"stage": "play",
+						"history": [
+							[
+								[
+									22
+								],
+								[
+									92
+								],
+								[
+									46
+								],
+								[
+									80
+								]
+							],
+							[
+								[
+									103
+								],
+								[
+									67
+								]
+							],
+							2,
+							0
+						],
+						"global": {
+							"level": "2",
+							"banking": {
+								"called": 0,
+								"snatched": -1,
+								"major": "c",
+								"banker": 0
+							},
+							"total_score": 0
+						}
+					}
+				},
+				"display": {
+					"event": {
+						"currplayer": 1,
+						"action": "play",
+						"poker": [
+							67
+						]
+					}
+				}
+			},
+			"time": 161,
+			"verdict": "OK"
+		},
+		{
+			"2": {
+				"keep_running": false,
+				"memory": 50,
+				"time": 33,
+				"verdict": "OK",
+				"response": [
+					25
+				]
+			}
+		},
+		{
+			"keep_running": false,
+			"memory": 62,
+			"output": {
+				"command": "request",
+				"content": {
+					"3": {
+						"stage": "play",
+						"history": [
+							[
+								[
+									22
+								],
+								[
+									92
+								],
+								[
+									46
+								],
+								[
+									80
+								]
+							],
+							[
+								[
+									103
+								],
+								[
+									67
+								],
+								[
+									25
+								]
+							],
+							2,
+							0
+						],
+						"global": {
+							"level": "2",
+							"banking": {
+								"called": 0,
+								"snatched": -1,
+								"major": "c",
+								"banker": 0
+							},
+							"total_score": 0
+						}
+					}
+				},
+				"display": {
+					"event": {
+						"currplayer": 2,
+						"action": "play",
+						"poker": [
+							25
+						]
+					}
+				}
+			},
+			"time": 160,
+			"verdict": "OK"
+		},
+		{
+			"3": {
+				"keep_running": false,
+				"memory": 50,
+				"time": 34,
+				"verdict": "OK",
+				"response": [
+					75
+				]
+			}
+		},
+		{
+			"keep_running": false,
+			"memory": 62,
+			"output": {
+				"command": "request",
+				"content": {
+					"0": {
+						"stage": "play",
+						"history": [
+							[
+								[
+									103
+								],
+								[
+									67
+								],
+								[
+									25
+								],
+								[
+									75
+								]
+							],
+							[],
+							0,
+							0
+						],
+						"global": {
+							"level": "2",
+							"banking": {
+								"called": 0,
+								"snatched": -1,
+								"major": "c",
+								"banker": 0
+							},
+							"total_score": 0
+						}
+					}
+				},
+				"display": {
+					"event": {
+						"currplayer": 3,
+						"action": "play",
+						"poker": [
+							75
+						]
+					}
+				}
+			},
+			"time": 169,
+			"verdict": "OK"
+		},
+		{
+			"0": {
+				"content": [
+					47
+				],
+				"response": [
+					47
+				],
+				"verdict": "OK"
+			}
+		},
+		{
+			"keep_running": false,
+			"memory": 62,
+			"output": {
+				"command": "request",
+				"content": {
+					"1": {
+						"stage": "play",
+						"history": [
+							[
+								[
+									103
+								],
+								[
+									67
+								],
+								[
+									25
+								],
+								[
+									75
+								]
+							],
+							[
+								[
+									47
+								]
+							],
+							0,
+							0
+						],
+						"global": {
+							"level": "2",
+							"banking": {
+								"called": 0,
+								"snatched": -1,
+								"major": "c",
+								"banker": 0
+							},
+							"total_score": 0
+						}
+					}
+				},
+				"display": {
+					"event": {
+						"currplayer": 0,
+						"action": "play",
+						"poker": [
+							47
+						]
+					}
+				}
+			},
+			"time": 168,
+			"verdict": "OK"
+		},
+		{
+			"1": {
+				"keep_running": false,
+				"memory": 50,
+				"time": 34,
+				"verdict": "OK",
+				"response": [
+					51
+				]
+			}
+		},
+		{
+			"keep_running": false,
+			"memory": 62,
+			"output": {
+				"command": "request",
+				"content": {
+					"2": {
+						"stage": "play",
+						"history": [
+							[
+								[
+									103
+								],
+								[
+									67
+								],
+								[
+									25
+								],
+								[
+									75
+								]
+							],
+							[
+								[
+									47
+								],
+								[
+									51
+								]
+							],
+							0,
+							0
+						],
+						"global": {
+							"level": "2",
+							"banking": {
+								"called": 0,
+								"snatched": -1,
+								"major": "c",
+								"banker": 0
+							},
+							"total_score": 0
+						}
+					}
+				},
+				"display": {
+					"event": {
+						"currplayer": 1,
+						"action": "play",
+						"poker": [
+							51
+						]
+					}
+				}
+			},
+			"time": 159,
+			"verdict": "OK"
+		},
+		{
+			"2": {
+				"keep_running": false,
+				"memory": 50,
+				"time": 34,
+				"verdict": "OK",
+				"response": [
+					82
+				]
+			}
+		},
+		{
+			"keep_running": false,
+			"memory": 62,
+			"output": {
+				"command": "request",
+				"content": {
+					"3": {
+						"stage": "play",
+						"history": [
+							[
+								[
+									103
+								],
+								[
+									67
+								],
+								[
+									25
+								],
+								[
+									75
+								]
+							],
+							[
+								[
+									47
+								],
+								[
+									51
+								],
+								[
+									82
+								]
+							],
+							0,
+							0
+						],
+						"global": {
+							"level": "2",
+							"banking": {
+								"called": 0,
+								"snatched": -1,
+								"major": "c",
+								"banker": 0
+							},
+							"total_score": 0
+						}
+					}
+				},
+				"display": {
+					"event": {
+						"currplayer": 2,
+						"action": "play",
+						"poker": [
+							82
+						]
+					}
+				}
+			},
+			"time": 161,
+			"verdict": "OK"
+		},
+		{
+			"3": {
+				"keep_running": false,
+				"memory": 50,
+				"time": 35,
+				"verdict": "OK",
+				"response": [
+					101
+				]
+			}
+		},
+		{
+			"keep_running": false,
+			"memory": 62,
+			"output": {
+				"command": "request",
+				"content": {
+					"1": {
+						"stage": "play",
+						"history": [
+							[
+								[
+									47
+								],
+								[
+									51
+								],
+								[
+									82
+								],
+								[
+									101
+								]
+							],
+							[],
+							0,
+							1
+						],
+						"global": {
+							"level": "2",
+							"banking": {
+								"called": 0,
+								"snatched": -1,
+								"major": "c",
+								"banker": 0
+							},
+							"total_score": 10
+						}
+					}
+				},
+				"display": {
+					"event": {
+						"currplayer": 3,
+						"action": "play",
+						"poker": [
+							101
+						]
+					}
+				}
+			},
+			"time": 169,
+			"verdict": "OK"
+		},
+		{
+			"1": {
+				"keep_running": false,
+				"memory": 50,
+				"time": 34,
+				"verdict": "OK",
+				"response": [
+					81
+				]
+			}
+		},
+		{
+			"keep_running": false,
+			"memory": 62,
+			"output": {
+				"command": "request",
+				"content": {
+					"2": {
+						"stage": "play",
+						"history": [
+							[
+								[
+									47
+								],
+								[
+									51
+								],
+								[
+									82
+								],
+								[
+									101
+								]
+							],
+							[
+								[
+									81
+								]
+							],
+							0,
+							1
+						],
+						"global": {
+							"level": "2",
+							"banking": {
+								"called": 0,
+								"snatched": -1,
+								"major": "c",
+								"banker": 0
+							},
+							"total_score": 10
+						}
+					}
+				},
+				"display": {
+					"event": {
+						"currplayer": 1,
+						"action": "play",
+						"poker": [
+							81
+						]
+					}
+				}
+			},
+			"time": 160,
+			"verdict": "OK"
+		},
+		{
+			"2": {
+				"keep_running": false,
+				"memory": 50,
+				"time": 33,
+				"verdict": "OK",
+				"response": [
+					72
+				]
+			}
+		},
+		{
+			"keep_running": false,
+			"memory": 62,
+			"output": {
+				"command": "request",
+				"content": {
+					"3": {
+						"stage": "play",
+						"history": [
+							[
+								[
+									47
+								],
+								[
+									51
+								],
+								[
+									82
+								],
+								[
+									101
+								]
+							],
+							[
+								[
+									81
+								],
+								[
+									72
+								]
+							],
+							0,
+							1
+						],
+						"global": {
+							"level": "2",
+							"banking": {
+								"called": 0,
+								"snatched": -1,
+								"major": "c",
+								"banker": 0
+							},
+							"total_score": 10
+						}
+					}
+				},
+				"display": {
+					"event": {
+						"currplayer": 2,
+						"action": "play",
+						"poker": [
+							72
+						]
+					}
+				}
+			},
+			"time": 161,
+			"verdict": "OK"
+		},
+		{
+			"3": {
+				"keep_running": false,
+				"memory": 50,
+				"time": 33,
+				"verdict": "OK",
+				"response": [
+					89
+				]
+			}
+		},
+		{
+			"keep_running": false,
+			"memory": 62,
+			"output": {
+				"command": "request",
+				"content": {
+					"0": {
+						"stage": "play",
+						"history": [
+							[
+								[
+									47
+								],
+								[
+									51
+								],
+								[
+									82
+								],
+								[
+									101
+								]
+							],
+							[
+								[
+									81
+								],
+								[
+									72
+								],
+								[
+									89
+								]
+							],
+							0,
+							1
+						],
+						"global": {
+							"level": "2",
+							"banking": {
+								"called": 0,
+								"snatched": -1,
+								"major": "c",
+								"banker": 0
+							},
+							"total_score": 10
+						}
+					}
+				},
+				"display": {
+					"event": {
+						"currplayer": 3,
+						"action": "play",
+						"poker": [
+							89
+						]
+					}
+				}
+			},
+			"time": 161,
+			"verdict": "OK"
+		},
+		{
+			"0": {
+				"content": [
+					43
+				],
+				"response": [
+					43
+				],
+				"verdict": "OK"
+			}
+		},
+		{
+			"keep_running": false,
+			"memory": 62,
+			"output": {
+				"command": "request",
+				"content": {
+					"0": {
+						"stage": "play",
+						"history": [
+							[
+								[
+									81
+								],
+								[
+									72
+								],
+								[
+									89
+								],
+								[
+									43
+								]
+							],
+							[],
+							1,
+							0
+						],
+						"global": {
+							"level": "2",
+							"banking": {
+								"called": 0,
+								"snatched": -1,
+								"major": "c",
+								"banker": 0
+							},
+							"total_score": 10
+						}
+					}
+				},
+				"display": {
+					"event": {
+						"currplayer": 0,
+						"action": "play",
+						"poker": [
+							43
+						]
+					}
+				}
+			},
+			"time": 167,
+			"verdict": "OK"
+		},
+		{
+			"0": {
+				"content": [
+					56
+				],
+				"response": [
+					56
+				],
+				"verdict": "OK"
+			}
+		},
+		{
+			"keep_running": false,
+			"memory": 62,
+			"output": {
+				"command": "request",
+				"content": {
+					"1": {
+						"stage": "play",
+						"history": [
+							[
+								[
+									81
+								],
+								[
+									72
+								],
+								[
+									89
+								],
+								[
+									43
+								]
+							],
+							[
+								[
+									56
+								]
+							],
+							1,
+							0
+						],
+						"global": {
+							"level": "2",
+							"banking": {
+								"called": 0,
+								"snatched": -1,
+								"major": "c",
+								"banker": 0
+							},
+							"total_score": 10
+						}
+					}
+				},
+				"display": {
+					"event": {
+						"currplayer": 0,
+						"action": "play",
+						"poker": [
+							56
+						]
+					}
+				}
+			},
+			"time": 161,
+			"verdict": "OK"
+		},
+		{
+			"1": {
+				"keep_running": false,
+				"memory": 50,
+				"time": 33,
+				"verdict": "OK",
+				"response": [
+					18
+				]
+			}
+		},
+		{
+			"keep_running": false,
+			"memory": 62,
+			"output": {
+				"command": "request",
+				"content": {
+					"2": {
+						"stage": "play",
+						"history": [
+							[
+								[
+									81
+								],
+								[
+									72
+								],
+								[
+									89
+								],
+								[
+									43
+								]
+							],
+							[
+								[
+									56
+								],
+								[
+									18
+								]
+							],
+							1,
+							0
+						],
+						"global": {
+							"level": "2",
+							"banking": {
+								"called": 0,
+								"snatched": -1,
+								"major": "c",
+								"banker": 0
+							},
+							"total_score": 10
+						}
+					}
+				},
+				"display": {
+					"event": {
+						"currplayer": 1,
+						"action": "play",
+						"poker": [
+							18
+						]
+					}
+				}
+			},
+			"time": 162,
+			"verdict": "OK"
+		},
+		{
+			"2": {
+				"keep_running": false,
+				"memory": 50,
+				"time": 33,
+				"verdict": "OK",
+				"response": [
+					50
+				]
+			}
+		},
+		{
+			"keep_running": false,
+			"memory": 62,
+			"output": {
+				"command": "request",
+				"content": {
+					"3": {
+						"stage": "play",
+						"history": [
+							[
+								[
+									81
+								],
+								[
+									72
+								],
+								[
+									89
+								],
+								[
+									43
+								]
+							],
+							[
+								[
+									56
+								],
+								[
+									18
+								],
+								[
+									50
+								]
+							],
+							1,
+							0
+						],
+						"global": {
+							"level": "2",
+							"banking": {
+								"called": 0,
+								"snatched": -1,
+								"major": "c",
+								"banker": 0
+							},
+							"total_score": 10
+						}
+					}
+				},
+				"display": {
+					"event": {
+						"currplayer": 2,
+						"action": "play",
+						"poker": [
+							50
+						]
+					}
+				}
+			},
+			"time": 164,
+			"verdict": "OK"
+		},
+		{
+			"3": {
+				"keep_running": false,
+				"memory": 50,
+				"time": 34,
+				"verdict": "OK",
+				"response": [
+					26
+				]
+			}
+		},
+		{
+			"keep_running": false,
+			"memory": 62,
+			"output": {
+				"command": "request",
+				"content": {
+					"0": {
+						"stage": "play",
+						"history": [
+							[
+								[
+									56
+								],
+								[
+									18
+								],
+								[
+									50
+								],
+								[
+									26
+								]
+							],
+							[],
+							0,
+							0
+						],
+						"global": {
+							"level": "2",
+							"banking": {
+								"called": 0,
+								"snatched": -1,
+								"major": "c",
+								"banker": 0
+							},
+							"total_score": 10
+						}
+					}
+				},
+				"display": {
+					"event": {
+						"currplayer": 3,
+						"action": "play",
+						"poker": [
+							26
+						]
+					}
+				}
+			},
+			"time": 162,
+			"verdict": "OK"
+		},
+		{
+			"0": {
+				"content": [
+					96
+				],
+				"response": [
+					96
+				],
+				"verdict": "OK"
+			}
+		},
+		{
+			"keep_running": false,
+			"memory": 62,
+			"output": {
+				"command": "request",
+				"content": {
+					"1": {
+						"stage": "play",
+						"history": [
+							[
+								[
+									56
+								],
+								[
+									18
+								],
+								[
+									50
+								],
+								[
+									26
+								]
+							],
+							[
+								[
+									96
+								]
+							],
+							0,
+							0
+						],
+						"global": {
+							"level": "2",
+							"banking": {
+								"called": 0,
+								"snatched": -1,
+								"major": "c",
+								"banker": 0
+							},
+							"total_score": 10
+						}
+					}
+				},
+				"display": {
+					"event": {
+						"currplayer": 0,
+						"action": "play",
+						"poker": [
+							96
+						]
+					}
+				}
+			},
+			"time": 182,
+			"verdict": "OK"
+		},
+		{
+			"1": {
+				"keep_running": false,
+				"memory": 50,
+				"time": 34,
+				"verdict": "OK",
+				"response": [
+					34
+				]
+			}
+		},
+		{
+			"keep_running": false,
+			"memory": 62,
+			"output": {
+				"command": "request",
+				"content": {
+					"2": {
+						"stage": "play",
+						"history": [
+							[
+								[
+									56
+								],
+								[
+									18
+								],
+								[
+									50
+								],
+								[
+									26
+								]
+							],
+							[
+								[
+									96
+								],
+								[
+									34
+								]
+							],
+							0,
+							0
+						],
+						"global": {
+							"level": "2",
+							"banking": {
+								"called": 0,
+								"snatched": -1,
+								"major": "c",
+								"banker": 0
+							},
+							"total_score": 10
+						}
+					}
+				},
+				"display": {
+					"event": {
+						"currplayer": 1,
+						"action": "play",
+						"poker": [
+							34
+						]
+					}
+				}
+			},
+			"time": 164,
+			"verdict": "OK"
+		},
+		{
+			"2": {
+				"keep_running": false,
+				"memory": 50,
+				"time": 33,
+				"verdict": "OK",
+				"response": [
+					64
+				]
+			}
+		},
+		{
+			"keep_running": false,
+			"memory": 62,
+			"output": {
+				"command": "request",
+				"content": {
+					"3": {
+						"stage": "play",
+						"history": [
+							[
+								[
+									56
+								],
+								[
+									18
+								],
+								[
+									50
+								],
+								[
+									26
+								]
+							],
+							[
+								[
+									96
+								],
+								[
+									34
+								],
+								[
+									64
+								]
+							],
+							0,
+							0
+						],
+						"global": {
+							"level": "2",
+							"banking": {
+								"called": 0,
+								"snatched": -1,
+								"major": "c",
+								"banker": 0
+							},
+							"total_score": 10
+						}
+					}
+				},
+				"display": {
+					"event": {
+						"currplayer": 2,
+						"action": "play",
+						"poker": [
+							64
+						]
+					}
+				}
+			},
+			"time": 174,
+			"verdict": "OK"
+		},
+		{
+			"3": {
+				"keep_running": false,
+				"memory": 50,
+				"time": 38,
+				"verdict": "OK",
+				"response": [
+					42
+				]
+			}
+		},
+		{
+			"keep_running": false,
+			"memory": 62,
+			"output": {
+				"command": "request",
+				"content": {
+					"0": {
+						"stage": "play",
+						"history": [
+							[
+								[
+									96
+								],
+								[
+									34
+								],
+								[
+									64
+								],
+								[
+									42
+								]
+							],
+							[],
+							0,
+							0
+						],
+						"global": {
+							"level": "2",
+							"banking": {
+								"called": 0,
+								"snatched": -1,
+								"major": "c",
+								"banker": 0
+							},
+							"total_score": 10
+						}
+					}
+				},
+				"display": {
+					"event": {
+						"currplayer": 3,
+						"action": "play",
+						"poker": [
+							42
+						]
+					}
+				}
+			},
+			"time": 178,
+			"verdict": "OK"
+		},
+		{
+			"0": {
+				"content": [
+					99
+				],
+				"response": [
+					99
+				],
+				"verdict": "OK"
+			}
+		},
+		{
+			"keep_running": false,
+			"memory": 62,
+			"output": {
+				"command": "request",
+				"content": {
+					"1": {
+						"stage": "play",
+						"history": [
+							[
+								[
+									96
+								],
+								[
+									34
+								],
+								[
+									64
+								],
+								[
+									42
+								]
+							],
+							[
+								[
+									99
+								]
+							],
+							0,
+							0
+						],
+						"global": {
+							"level": "2",
+							"banking": {
+								"called": 0,
+								"snatched": -1,
+								"major": "c",
+								"banker": 0
+							},
+							"total_score": 10
+						}
+					}
+				},
+				"display": {
+					"event": {
+						"currplayer": 0,
+						"action": "play",
+						"poker": [
+							99
+						]
+					}
+				}
+			},
+			"time": 177,
+			"verdict": "OK"
+		},
+		{
+			"1": {
+				"keep_running": false,
+				"memory": 50,
+				"time": 32,
+				"verdict": "OK",
+				"response": [
+					33
+				]
+			}
+		},
+		{
+			"keep_running": false,
+			"memory": 62,
+			"output": {
+				"command": "request",
+				"content": {
+					"2": {
+						"stage": "play",
+						"history": [
+							[
+								[
+									96
+								],
+								[
+									34
+								],
+								[
+									64
+								],
+								[
+									42
+								]
+							],
+							[
+								[
+									99
+								],
+								[
+									33
+								]
+							],
+							0,
+							0
+						],
+						"global": {
+							"level": "2",
+							"banking": {
+								"called": 0,
+								"snatched": -1,
+								"major": "c",
+								"banker": 0
+							},
+							"total_score": 10
+						}
+					}
+				},
+				"display": {
+					"event": {
+						"currplayer": 1,
+						"action": "play",
+						"poker": [
+							33
+						]
+					}
+				}
+			},
+			"time": 151,
+			"verdict": "OK"
+		},
+		{
+			"2": {
+				"keep_running": false,
+				"memory": 50,
+				"time": 34,
+				"verdict": "OK",
+				"response": [
+					55
+				]
+			}
+		},
+		{
+			"keep_running": false,
+			"memory": 62,
+			"output": {
+				"command": "request",
+				"content": {
+					"3": {
+						"stage": "play",
+						"history": [
+							[
+								[
+									96
+								],
+								[
+									34
+								],
+								[
+									64
+								],
+								[
+									42
+								]
+							],
+							[
+								[
+									99
+								],
+								[
+									33
+								],
+								[
+									55
+								]
+							],
+							0,
+							0
+						],
+						"global": {
+							"level": "2",
+							"banking": {
+								"called": 0,
+								"snatched": -1,
+								"major": "c",
+								"banker": 0
+							},
+							"total_score": 10
+						}
+					}
+				},
+				"display": {
+					"event": {
+						"currplayer": 2,
+						"action": "play",
+						"poker": [
+							55
+						]
+					}
+				}
+			},
+			"time": 153,
+			"verdict": "OK"
+		},
+		{
+			"3": {
+				"keep_running": false,
+				"memory": 50,
+				"time": 32,
+				"verdict": "OK",
+				"response": [
+					41
+				]
+			}
+		},
+		{
+			"keep_running": false,
+			"memory": 62,
+			"output": {
+				"command": "request",
+				"content": {
+					"2": {
+						"stage": "play",
+						"history": [
+							[
+								[
+									99
+								],
+								[
+									33
+								],
+								[
+									55
+								],
+								[
+									41
+								]
+							],
+							[],
+							0,
+							2
+						],
+						"global": {
+							"level": "2",
+							"banking": {
+								"called": 0,
+								"snatched": -1,
+								"major": "c",
+								"banker": 0
+							},
+							"total_score": 10
+						}
+					}
+				},
+				"display": {
+					"event": {
+						"currplayer": 3,
+						"action": "play",
+						"poker": [
+							41
+						]
+					}
+				}
+			},
+			"time": 153,
+			"verdict": "OK"
+		},
+		{
+			"2": {
+				"keep_running": false,
+				"memory": 50,
+				"time": 32,
+				"verdict": "OK",
+				"response": [
+					29
+				]
+			}
+		},
+		{
+			"keep_running": false,
+			"memory": 62,
+			"output": {
+				"command": "request",
+				"content": {
+					"3": {
+						"stage": "play",
+						"history": [
+							[
+								[
+									99
+								],
+								[
+									33
+								],
+								[
+									55
+								],
+								[
+									41
+								]
+							],
+							[
+								[
+									29
+								]
+							],
+							0,
+							2
+						],
+						"global": {
+							"level": "2",
+							"banking": {
+								"called": 0,
+								"snatched": -1,
+								"major": "c",
+								"banker": 0
+							},
+							"total_score": 10
+						}
+					}
+				},
+				"display": {
+					"event": {
+						"currplayer": 2,
+						"action": "play",
+						"poker": [
+							29
+						]
+					}
+				}
+			},
+			"time": 153,
+			"verdict": "OK"
+		},
+		{
+			"3": {
+				"keep_running": false,
+				"memory": 50,
+				"time": 32,
+				"verdict": "OK",
+				"response": [
+					45
+				]
+			}
+		},
+		{
+			"keep_running": false,
+			"memory": 62,
+			"output": {
+				"command": "request",
+				"content": {
+					"0": {
+						"stage": "play",
+						"history": [
+							[
+								[
+									99
+								],
+								[
+									33
+								],
+								[
+									55
+								],
+								[
+									41
+								]
+							],
+							[
+								[
+									29
+								],
+								[
+									45
+								]
+							],
+							0,
+							2
+						],
+						"global": {
+							"level": "2",
+							"banking": {
+								"called": 0,
+								"snatched": -1,
+								"major": "c",
+								"banker": 0
+							},
+							"total_score": 10
+						}
+					}
+				},
+				"display": {
+					"event": {
+						"currplayer": 3,
+						"action": "play",
+						"poker": [
+							45
+						]
+					}
+				}
+			},
+			"time": 152,
+			"verdict": "OK"
+		},
+		{
+			"0": {
+				"content": [
+					83
+				],
+				"response": [
+					83
+				],
+				"verdict": "OK"
+			}
+		},
+		{
+			"keep_running": false,
+			"memory": 62,
+			"output": {
+				"command": "request",
+				"content": {
+					"1": {
+						"stage": "play",
+						"history": [
+							[
+								[
+									99
+								],
+								[
+									33
+								],
+								[
+									55
+								],
+								[
+									41
+								]
+							],
+							[
+								[
+									29
+								],
+								[
+									45
+								],
+								[
+									83
+								]
+							],
+							0,
+							2
+						],
+						"global": {
+							"level": "2",
+							"banking": {
+								"called": 0,
+								"snatched": -1,
+								"major": "c",
+								"banker": 0
+							},
+							"total_score": 10
+						}
+					}
+				},
+				"display": {
+					"event": {
+						"currplayer": 0,
+						"action": "play",
+						"poker": [
+							83
+						]
+					}
+				}
+			},
+			"time": 174,
+			"verdict": "OK"
+		},
+		{
+			"1": {
+				"keep_running": false,
+				"memory": 50,
+				"time": 35,
+				"verdict": "OK",
+				"response": [
+					17
+				]
+			}
+		},
+		{
+			"keep_running": false,
+			"memory": 62,
+			"output": {
+				"command": "request",
+				"content": {
+					"3": {
+						"stage": "play",
+						"history": [
+							[
+								[
+									29
+								],
+								[
+									45
+								],
+								[
+									83
+								],
+								[
+									17
+								]
+							],
+							[],
+							2,
+							3
+						],
+						"global": {
+							"level": "2",
+							"banking": {
+								"called": 0,
+								"snatched": -1,
+								"major": "c",
+								"banker": 0
+							},
+							"total_score": 15
+						}
+					}
+				},
+				"display": {
+					"event": {
+						"currplayer": 1,
+						"action": "play",
+						"poker": [
+							17
+						]
+					}
+				}
+			},
+			"time": 171,
+			"verdict": "OK"
+		},
+		{
+			"3": {
+				"keep_running": false,
+				"memory": 50,
+				"time": 35,
+				"verdict": "OK",
+				"response": [
+					6
+				]
+			}
+		},
+		{
+			"keep_running": false,
+			"memory": 62,
+			"output": {
+				"command": "request",
+				"content": {
+					"0": {
+						"stage": "play",
+						"history": [
+							[
+								[
+									29
+								],
+								[
+									45
+								],
+								[
+									83
+								],
+								[
+									17
+								]
+							],
+							[
+								[
+									6
+								]
+							],
+							2,
+							3
+						],
+						"global": {
+							"level": "2",
+							"banking": {
+								"called": 0,
+								"snatched": -1,
+								"major": "c",
+								"banker": 0
+							},
+							"total_score": 15
+						}
+					}
+				},
+				"display": {
+					"event": {
+						"currplayer": 3,
+						"action": "play",
+						"poker": [
+							6
+						]
+					}
+				}
+			},
+			"time": 174,
+			"verdict": "OK"
+		},
+		{
+			"0": {
+				"content": [
+					14
+				],
+				"response": [
+					14
+				],
+				"verdict": "OK"
+			}
+		},
+		{
+			"keep_running": false,
+			"memory": 62,
+			"output": {
+				"command": "request",
+				"content": {
+					"1": {
+						"stage": "play",
+						"history": [
+							[
+								[
+									29
+								],
+								[
+									45
+								],
+								[
+									83
+								],
+								[
+									17
+								]
+							],
+							[
+								[
+									6
+								],
+								[
+									14
+								]
+							],
+							2,
+							3
+						],
+						"global": {
+							"level": "2",
+							"banking": {
+								"called": 0,
+								"snatched": -1,
+								"major": "c",
+								"banker": 0
+							},
+							"total_score": 15
+						}
+					}
+				},
+				"display": {
+					"event": {
+						"currplayer": 0,
+						"action": "play",
+						"poker": [
+							14
+						]
+					}
+				}
+			},
+			"time": 164,
+			"verdict": "OK"
+		},
+		{
+			"1": {
+				"keep_running": false,
+				"memory": 50,
+				"time": 34,
+				"verdict": "OK",
+				"response": [
+					84
+				]
+			}
+		},
+		{
+			"keep_running": false,
+			"memory": 62,
+			"output": {
+				"command": "request",
+				"content": {
+					"2": {
+						"stage": "play",
+						"history": [
+							[
+								[
+									29
+								],
+								[
+									45
+								],
+								[
+									83
+								],
+								[
+									17
+								]
+							],
+							[
+								[
+									6
+								],
+								[
+									14
+								],
+								[
+									84
+								]
+							],
+							2,
+							3
+						],
+						"global": {
+							"level": "2",
+							"banking": {
+								"called": 0,
+								"snatched": -1,
+								"major": "c",
+								"banker": 0
+							},
+							"total_score": 15
+						}
+					}
+				},
+				"display": {
+					"event": {
+						"currplayer": 1,
+						"action": "play",
+						"poker": [
+							84
+						]
+					}
+				}
+			},
+			"time": 161,
+			"verdict": "OK"
+		},
+		{
+			"2": {
+				"keep_running": false,
+				"memory": 50,
+				"time": 34,
+				"verdict": "OK",
+				"response": [
+					100
+				]
+			}
+		},
+		{
+			"keep_running": false,
+			"memory": 62,
+			"output": {
+				"command": "request",
+				"content": {
+					"3": {
+						"stage": "play",
+						"history": [
+							[
+								[
+									6
+								],
+								[
+									14
+								],
+								[
+									84
+								],
+								[
+									100
+								]
+							],
+							[],
+							3,
+							3
+						],
+						"global": {
+							"level": "2",
+							"banking": {
+								"called": 0,
+								"snatched": -1,
+								"major": "c",
+								"banker": 0
+							},
+							"total_score": 15
+						}
+					}
+				},
+				"display": {
+					"event": {
+						"currplayer": 2,
+						"action": "play",
+						"poker": [
+							100
+						]
+					}
+				}
+			},
+			"time": 166,
+			"verdict": "OK"
+		},
+		{
+			"3": {
+				"keep_running": false,
+				"memory": 50,
+				"time": 34,
+				"verdict": "OK",
+				"response": [
+					3
+				]
+			}
+		},
+		{
+			"keep_running": false,
+			"memory": 62,
+			"output": {
+				"command": "request",
+				"content": {
+					"0": {
+						"stage": "play",
+						"history": [
+							[
+								[
+									6
+								],
+								[
+									14
+								],
+								[
+									84
+								],
+								[
+									100
+								]
+							],
+							[
+								[
+									3
+								]
+							],
+							3,
+							3
+						],
+						"global": {
+							"level": "2",
+							"banking": {
+								"called": 0,
+								"snatched": -1,
+								"major": "c",
+								"banker": 0
+							},
+							"total_score": 15
+						}
+					}
+				},
+				"display": {
+					"event": {
+						"currplayer": 3,
+						"action": "play",
+						"poker": [
+							3
+						]
+					}
+				}
+			},
+			"time": 159,
+			"verdict": "OK"
+		},
+		{
+			"0": {
+				"content": [
+					69
+				],
+				"response": [
+					69
+				],
+				"verdict": "OK"
+			}
+		},
+		{
+			"keep_running": false,
+			"memory": 62,
+			"output": {
+				"command": "request",
+				"content": {
+					"1": {
+						"stage": "play",
+						"history": [
+							[
+								[
+									6
+								],
+								[
+									14
+								],
+								[
+									84
+								],
+								[
+									100
+								]
+							],
+							[
+								[
+									3
+								],
+								[
+									69
+								]
+							],
+							3,
+							3
+						],
+						"global": {
+							"level": "2",
+							"banking": {
+								"called": 0,
+								"snatched": -1,
+								"major": "c",
+								"banker": 0
+							},
+							"total_score": 15
+						}
+					}
+				},
+				"display": {
+					"event": {
+						"currplayer": 0,
+						"action": "play",
+						"poker": [
+							69
+						]
+					}
+				}
+			},
+			"time": 168,
+			"verdict": "OK"
+		},
+		{
+			"1": {
+				"keep_running": false,
+				"memory": 50,
+				"time": 33,
+				"verdict": "OK",
+				"response": [
+					65
+				]
+			}
+		},
+		{
+			"keep_running": false,
+			"memory": 62,
+			"output": {
+				"command": "request",
+				"content": {
+					"2": {
+						"stage": "play",
+						"history": [
+							[
+								[
+									6
+								],
+								[
+									14
+								],
+								[
+									84
+								],
+								[
+									100
+								]
+							],
+							[
+								[
+									3
+								],
+								[
+									69
+								],
+								[
+									65
+								]
+							],
+							3,
+							3
+						],
+						"global": {
+							"level": "2",
+							"banking": {
+								"called": 0,
+								"snatched": -1,
+								"major": "c",
+								"banker": 0
+							},
+							"total_score": 15
+						}
+					}
+				},
+				"display": {
+					"event": {
+						"currplayer": 1,
+						"action": "play",
+						"poker": [
+							65
+						]
+					}
+				}
+			},
+			"time": 166,
+			"verdict": "OK"
+		},
+		{
+			"2": {
+				"keep_running": false,
+				"memory": 50,
+				"time": 34,
+				"verdict": "OK",
+				"response": [
+					79
+				]
+			}
+		},
+		{
+			"keep_running": false,
+			"memory": 62,
+			"output": {
+				"command": "request",
+				"content": {
+					"3": {
+						"stage": "play",
+						"history": [
+							[
+								[
+									3
+								],
+								[
+									69
+								],
+								[
+									65
+								],
+								[
+									79
+								]
+							],
+							[],
+							3,
+							3
+						],
+						"global": {
+							"level": "2",
+							"banking": {
+								"called": 0,
+								"snatched": -1,
+								"major": "c",
+								"banker": 0
+							},
+							"total_score": 15
+						}
+					}
+				},
+				"display": {
+					"event": {
+						"currplayer": 2,
+						"action": "play",
+						"poker": [
+							79
+						]
+					}
+				}
+			},
+			"time": 161,
+			"verdict": "OK"
+		},
+		{
+			"3": {
+				"keep_running": false,
+				"memory": 50,
+				"time": 33,
+				"verdict": "OK",
+				"response": [
+					57
+				]
+			}
+		},
+		{
+			"keep_running": false,
+			"memory": 62,
+			"output": {
+				"command": "request",
+				"content": {
+					"0": {
+						"stage": "play",
+						"history": [
+							[
+								[
+									3
+								],
+								[
+									69
+								],
+								[
+									65
+								],
+								[
+									79
+								]
+							],
+							[
+								[
+									57
+								]
+							],
+							3,
+							3
+						],
+						"global": {
+							"level": "2",
+							"banking": {
+								"called": 0,
+								"snatched": -1,
+								"major": "c",
+								"banker": 0
+							},
+							"total_score": 15
+						}
+					}
+				},
+				"display": {
+					"event": {
+						"currplayer": 3,
+						"action": "play",
+						"poker": [
+							57
+						]
+					}
+				}
+			},
+			"time": 161,
+			"verdict": "OK"
+		},
+		{
+			"0": {
+				"content": [
+					13
+				],
+				"response": [
+					13
+				],
+				"verdict": "OK"
+			}
+		},
+		{
+			"keep_running": false,
+			"memory": 62,
+			"output": {
+				"command": "request",
+				"content": {
+					"1": {
+						"stage": "play",
+						"history": [
+							[
+								[
+									3
+								],
+								[
+									69
+								],
+								[
+									65
+								],
+								[
+									79
+								]
+							],
+							[
+								[
+									57
+								],
+								[
+									13
+								]
+							],
+							3,
+							3
+						],
+						"global": {
+							"level": "2",
+							"banking": {
+								"called": 0,
+								"snatched": -1,
+								"major": "c",
+								"banker": 0
+							},
+							"total_score": 15
+						}
+					}
+				},
+				"display": {
+					"event": {
+						"currplayer": 0,
+						"action": "play",
+						"poker": [
+							13
+						]
+					}
+				}
+			},
+			"time": 175,
+			"verdict": "OK"
+		},
+		{
+			"1": {
+				"keep_running": false,
+				"memory": 50,
+				"time": 34,
+				"verdict": "OK",
+				"response": [
+					97
+				]
+			}
+		},
+		{
+			"keep_running": false,
+			"memory": 62,
+			"output": {
+				"command": "request",
+				"content": {
+					"2": {
+						"stage": "play",
+						"history": [
+							[
+								[
+									3
+								],
+								[
+									69
+								],
+								[
+									65
+								],
+								[
+									79
+								]
+							],
+							[
+								[
+									57
+								],
+								[
+									13
+								],
+								[
+									97
+								]
+							],
+							3,
+							3
+						],
+						"global": {
+							"level": "2",
+							"banking": {
+								"called": 0,
+								"snatched": -1,
+								"major": "c",
+								"banker": 0
+							},
+							"total_score": 15
+						}
+					}
+				},
+				"display": {
+					"event": {
+						"currplayer": 1,
+						"action": "play",
+						"poker": [
+							97
+						]
+					}
+				}
+			},
+			"time": 161,
+			"verdict": "OK"
+		},
+		{
+			"2": {
+				"keep_running": false,
+				"memory": 50,
+				"time": 34,
+				"verdict": "OK",
+				"response": [
+					107
+				]
+			}
+		},
+		{
+			"keep_running": false,
+			"memory": 62,
+			"output": {
+				"command": "request",
+				"content": {
+					"2": {
+						"stage": "play",
+						"history": [
+							[
+								[
+									57
+								],
+								[
+									13
+								],
+								[
+									97
+								],
+								[
+									107
+								]
+							],
+							[],
+							3,
+							2
+						],
+						"global": {
+							"level": "2",
+							"banking": {
+								"called": 0,
+								"snatched": -1,
+								"major": "c",
+								"banker": 0
+							},
+							"total_score": 15
+						}
+					}
+				},
+				"display": {
+					"event": {
+						"currplayer": 2,
+						"action": "play",
+						"poker": [
+							107
+						]
+					}
+				}
+			},
+			"time": 161,
+			"verdict": "OK"
+		},
+		{
+			"2": {
+				"keep_running": false,
+				"memory": 50,
+				"time": 32,
+				"verdict": "OK",
+				"response": [
+					71
+				]
+			}
+		},
+		{
+			"keep_running": false,
+			"memory": 62,
+			"output": {
+				"command": "request",
+				"content": {
+					"3": {
+						"stage": "play",
+						"history": [
+							[
+								[
+									57
+								],
+								[
+									13
+								],
+								[
+									97
+								],
+								[
+									107
+								]
+							],
+							[
+								[
+									71
+								]
+							],
+							3,
+							2
+						],
+						"global": {
+							"level": "2",
+							"banking": {
+								"called": 0,
+								"snatched": -1,
+								"major": "c",
+								"banker": 0
+							},
+							"total_score": 15
+						}
+					}
+				},
+				"display": {
+					"event": {
+						"currplayer": 2,
+						"action": "play",
+						"poker": [
+							71
+						]
+					}
+				}
+			},
+			"time": 166,
+			"verdict": "OK"
+		},
+		{
+			"3": {
+				"keep_running": false,
+				"memory": 50,
+				"time": 34,
+				"verdict": "OK",
+				"response": [
+					1
+				]
+			}
+		},
+		{
+			"keep_running": false,
+			"memory": 62,
+			"output": {
+				"command": "request",
+				"content": {
+					"0": {
+						"stage": "play",
+						"history": [
+							[
+								[
+									57
+								],
+								[
+									13
+								],
+								[
+									97
+								],
+								[
+									107
+								]
+							],
+							[
+								[
+									71
+								],
+								[
+									1
+								]
+							],
+							3,
+							2
+						],
+						"global": {
+							"level": "2",
+							"banking": {
+								"called": 0,
+								"snatched": -1,
+								"major": "c",
+								"banker": 0
+							},
+							"total_score": 15
+						}
+					}
+				},
+				"display": {
+					"event": {
+						"currplayer": 3,
+						"action": "play",
+						"poker": [
+							1
+						]
+					}
+				}
+			},
+			"time": 160,
+			"verdict": "OK"
+		},
+		{
+			"0": {
+				"content": [
+					21
+				],
+				"response": [
+					21
+				],
+				"verdict": "OK"
+			}
+		},
+		{
+			"keep_running": false,
+			"memory": 62,
+			"output": {
+				"command": "request",
+				"content": {
+					"1": {
+						"stage": "play",
+						"history": [
+							[
+								[
+									57
+								],
+								[
+									13
+								],
+								[
+									97
+								],
+								[
+									107
+								]
+							],
+							[
+								[
+									71
+								],
+								[
+									1
+								],
+								[
+									21
+								]
+							],
+							3,
+							2
+						],
+						"global": {
+							"level": "2",
+							"banking": {
+								"called": 0,
+								"snatched": -1,
+								"major": "c",
+								"banker": 0
+							},
+							"total_score": 15
+						}
+					}
+				},
+				"display": {
+					"event": {
+						"currplayer": 0,
+						"action": "play",
+						"poker": [
+							21
+						]
+					}
+				}
+			},
+			"time": 167,
+			"verdict": "OK"
+		},
+		{
+			"1": {
+				"keep_running": false,
+				"memory": 50,
+				"time": 34,
+				"verdict": "OK",
+				"response": [
+					74
+				]
+			}
+		},
+		{
+			"keep_running": false,
+			"memory": 62,
+			"output": {
+				"command": "request",
+				"content": {
+					"3": {
+						"stage": "play",
+						"history": [
+							[
+								[
+									71
+								],
+								[
+									1
+								],
+								[
+									21
+								],
+								[
+									74
+								]
+							],
+							[],
+							2,
+							3
+						],
+						"global": {
+							"level": "2",
+							"banking": {
+								"called": 0,
+								"snatched": -1,
+								"major": "c",
+								"banker": 0
+							},
+							"total_score": 20
+						}
+					}
+				},
+				"display": {
+					"event": {
+						"currplayer": 1,
+						"action": "play",
+						"poker": [
+							74
+						]
+					}
+				}
+			},
+			"time": 162,
+			"verdict": "OK"
+		},
+		{
+			"3": {
+				"keep_running": false,
+				"memory": 50,
+				"time": 33,
+				"verdict": "OK",
+				"response": [
+					27
+				]
+			}
+		},
+		{
+			"keep_running": false,
+			"memory": 62,
+			"output": {
+				"command": "request",
+				"content": {
+					"0": {
+						"stage": "play",
+						"history": [
+							[
+								[
+									71
+								],
+								[
+									1
+								],
+								[
+									21
+								],
+								[
+									74
+								]
+							],
+							[
+								[
+									27
+								]
+							],
+							2,
+							3
+						],
+						"global": {
+							"level": "2",
+							"banking": {
+								"called": 0,
+								"snatched": -1,
+								"major": "c",
+								"banker": 0
+							},
+							"total_score": 20
+						}
+					}
+				},
+				"display": {
+					"event": {
+						"currplayer": 3,
+						"action": "play",
+						"poker": [
+							27
+						]
+					}
+				}
+			},
+			"time": 162,
+			"verdict": "OK"
+		},
+		{
+			"0": {
+				"content": [
+					5
+				],
+				"response": [
+					5
+				],
+				"verdict": "OK"
+			}
+		}
+	],
+	"initdata": {
+		"allocation": [
+			[
+				13,
+				69,
+				38,
+				61,
+				28,
+				99,
+				46,
+				20,
+				96,
+				91,
+				58,
+				10,
+				35,
+				43,
+				21,
+				56,
+				40,
+				5,
+				106,
+				88,
+				9,
+				66,
+				103,
+				14,
+				39
+			],
+			[
+				73,
+				24,
+				51,
+				67,
+				80,
+				81,
+				36,
+				74,
+				70,
+				18,
+				60,
+				33,
+				65,
+				34,
+				84,
+				104,
+				17,
+				90,
+				2,
+				0,
+				97,
+				98,
+				15,
+				77,
+				23
+			],
+			[
+				78,
+				22,
+				82,
+				72,
+				25,
+				50,
+				102,
+				55,
+				29,
+				64,
+				19,
+				105,
+				48,
+				79,
+				107,
+				100,
+				71,
+				76,
+				68,
+				63,
+				94,
+				53,
+				95,
+				59,
+				37
+			],
+			[
+				86,
+				52,
+				101,
+				85,
+				75,
+				89,
+				31,
+				92,
+				26,
+				41,
+				6,
+				12,
+				45,
+				3,
+				44,
+				57,
+				27,
+				1,
+				42,
+				30,
+				49,
+				11,
+				62,
+				93,
+				16
+			]
+		],
+		"seed": "1505661517",
+		"publiccard": [
+			7,
+			47,
+			4,
+			54,
+			32,
+			8,
+			83,
+			87
+		],
+		"level": "2"
+	}
+}

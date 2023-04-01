@@ -1,0 +1,582 @@
+{
+	"requests": [
+		{
+			"stage": "deal",
+			"deliver": [
+				81
+			],
+			"global": {
+				"level": "2",
+				"banking": {
+					"called": -1,
+					"snatched": -1,
+					"major": "",
+					"banker": -1
+				}
+			}
+		},
+		{
+			"stage": "deal",
+			"deliver": [
+				52
+			],
+			"global": {
+				"level": "2",
+				"banking": {
+					"called": -1,
+					"snatched": -1,
+					"major": "",
+					"banker": -1
+				}
+			}
+		},
+		{
+			"stage": "deal",
+			"deliver": [
+				17
+			],
+			"global": {
+				"level": "2",
+				"banking": {
+					"called": -1,
+					"snatched": -1,
+					"major": "",
+					"banker": -1
+				}
+			}
+		},
+		{
+			"stage": "deal",
+			"deliver": [
+				75
+			],
+			"global": {
+				"level": "2",
+				"banking": {
+					"called": 1,
+					"snatched": -1,
+					"major": "c",
+					"banker": 1
+				}
+			}
+		},
+		{
+			"stage": "deal",
+			"deliver": [
+				11
+			],
+			"global": {
+				"level": "2",
+				"banking": {
+					"called": 1,
+					"snatched": -1,
+					"major": "c",
+					"banker": 1
+				}
+			}
+		},
+		{
+			"stage": "deal",
+			"deliver": [
+				43
+			],
+			"global": {
+				"level": "2",
+				"banking": {
+					"called": 1,
+					"snatched": -1,
+					"major": "c",
+					"banker": 1
+				}
+			}
+		},
+		{
+			"stage": "deal",
+			"deliver": [
+				19
+			],
+			"global": {
+				"level": "2",
+				"banking": {
+					"called": 1,
+					"snatched": -1,
+					"major": "c",
+					"banker": 1
+				}
+			}
+		},
+		{
+			"stage": "deal",
+			"deliver": [
+				62
+			],
+			"global": {
+				"level": "2",
+				"banking": {
+					"called": 1,
+					"snatched": -1,
+					"major": "c",
+					"banker": 1
+				}
+			}
+		},
+		{
+			"stage": "deal",
+			"deliver": [
+				59
+			],
+			"global": {
+				"level": "2",
+				"banking": {
+					"called": 1,
+					"snatched": -1,
+					"major": "c",
+					"banker": 1
+				}
+			}
+		},
+		{
+			"stage": "deal",
+			"deliver": [
+				14
+			],
+			"global": {
+				"level": "2",
+				"banking": {
+					"called": 1,
+					"snatched": -1,
+					"major": "c",
+					"banker": 1
+				}
+			}
+		},
+		{
+			"stage": "deal",
+			"deliver": [
+				13
+			],
+			"global": {
+				"level": "2",
+				"banking": {
+					"called": 1,
+					"snatched": -1,
+					"major": "c",
+					"banker": 1
+				}
+			}
+		},
+		{
+			"stage": "deal",
+			"deliver": [
+				5
+			],
+			"global": {
+				"level": "2",
+				"banking": {
+					"called": 1,
+					"snatched": -1,
+					"major": "c",
+					"banker": 1
+				}
+			}
+		},
+		{
+			"stage": "deal",
+			"deliver": [
+				65
+			],
+			"global": {
+				"level": "2",
+				"banking": {
+					"called": 1,
+					"snatched": 2,
+					"major": "d",
+					"banker": 2
+				}
+			}
+		},
+		{
+			"stage": "deal",
+			"deliver": [
+				87
+			],
+			"global": {
+				"level": "2",
+				"banking": {
+					"called": 1,
+					"snatched": 2,
+					"major": "d",
+					"banker": 2
+				}
+			}
+		},
+		{
+			"stage": "deal",
+			"deliver": [
+				96
+			],
+			"global": {
+				"level": "2",
+				"banking": {
+					"called": 1,
+					"snatched": 2,
+					"major": "d",
+					"banker": 2
+				}
+			}
+		},
+		{
+			"stage": "deal",
+			"deliver": [
+				70
+			],
+			"global": {
+				"level": "2",
+				"banking": {
+					"called": 1,
+					"snatched": 2,
+					"major": "d",
+					"banker": 2
+				}
+			}
+		},
+		{
+			"stage": "deal",
+			"deliver": [
+				21
+			],
+			"global": {
+				"level": "2",
+				"banking": {
+					"called": 1,
+					"snatched": 2,
+					"major": "d",
+					"banker": 2
+				}
+			}
+		},
+		{
+			"stage": "deal",
+			"deliver": [
+				84
+			],
+			"global": {
+				"level": "2",
+				"banking": {
+					"called": 1,
+					"snatched": 2,
+					"major": "d",
+					"banker": 2
+				}
+			}
+		},
+		{
+			"stage": "deal",
+			"deliver": [
+				72
+			],
+			"global": {
+				"level": "2",
+				"banking": {
+					"called": 1,
+					"snatched": 2,
+					"major": "d",
+					"banker": 2
+				}
+			}
+		},
+		{
+			"stage": "deal",
+			"deliver": [
+				48
+			],
+			"global": {
+				"level": "2",
+				"banking": {
+					"called": 1,
+					"snatched": 2,
+					"major": "d",
+					"banker": 2
+				}
+			}
+		},
+		{
+			"stage": "deal",
+			"deliver": [
+				98
+			],
+			"global": {
+				"level": "2",
+				"banking": {
+					"called": 1,
+					"snatched": 2,
+					"major": "d",
+					"banker": 2
+				}
+			}
+		},
+		{
+			"stage": "deal",
+			"deliver": [
+				83
+			],
+			"global": {
+				"level": "2",
+				"banking": {
+					"called": 1,
+					"snatched": 2,
+					"major": "d",
+					"banker": 2
+				}
+			}
+		},
+		{
+			"stage": "deal",
+			"deliver": [
+				49
+			],
+			"global": {
+				"level": "2",
+				"banking": {
+					"called": 1,
+					"snatched": 2,
+					"major": "d",
+					"banker": 2
+				}
+			}
+		},
+		{
+			"stage": "deal",
+			"deliver": [
+				4
+			],
+			"global": {
+				"level": "2",
+				"banking": {
+					"called": 1,
+					"snatched": 2,
+					"major": "d",
+					"banker": 2
+				}
+			}
+		},
+		{
+			"stage": "deal",
+			"deliver": [
+				60
+			],
+			"global": {
+				"level": "2",
+				"banking": {
+					"called": 1,
+					"snatched": 2,
+					"major": "d",
+					"banker": 2
+				}
+			}
+		},
+		{
+			"stage": "cover",
+			"deliver": [
+				16,
+				69,
+				100,
+				23,
+				106,
+				38,
+				64,
+				68
+			],
+			"global": {
+				"level": "2",
+				"banking": {
+					"called": 1,
+					"snatched": 2,
+					"major": "d",
+					"banker": 2
+				}
+			}
+		},
+		{
+			"stage": "play",
+			"history": [
+				[],
+				[],
+				2,
+				2
+			],
+			"global": {
+				"level": "2",
+				"banking": {
+					"called": 1,
+					"snatched": 2,
+					"major": "d",
+					"banker": 2
+				},
+				"total_score": 0
+			}
+		},
+		{
+			"stage": "play",
+			"history": [
+				[
+					[
+						81
+					],
+					[
+						35
+					],
+					[
+						97
+					],
+					[
+						3
+					]
+				],
+				[
+					[
+						54
+					]
+				],
+				2,
+				1
+			],
+			"global": {
+				"level": "2",
+				"banking": {
+					"called": 1,
+					"snatched": 2,
+					"major": "d",
+					"banker": 2
+				},
+				"total_score": 0
+			}
+		},
+		{
+			"stage": "play",
+			"history": [
+				[
+					[
+						54
+					],
+					[
+						62
+					],
+					[
+						40
+					],
+					[
+						44
+					]
+				],
+				[
+					[
+						73
+					]
+				],
+				1,
+				1
+			],
+			"global": {
+				"level": "2",
+				"banking": {
+					"called": 1,
+					"snatched": 2,
+					"major": "d",
+					"banker": 2
+				},
+				"total_score": 0
+			}
+		},
+		{
+			"stage": "play",
+			"history": [
+				[
+					[
+						73
+					],
+					[
+						11
+					],
+					[
+						47
+					],
+					[
+						57
+					]
+				],
+				[
+					[
+						39,
+						93
+					],
+					[
+						51,
+						105
+					]
+				],
+				1,
+				0
+			],
+			"global": {
+				"level": "2",
+				"banking": {
+					"called": 1,
+					"snatched": 2,
+					"major": "d",
+					"banker": 2
+				},
+				"total_score": 0
+			}
+		}
+	],
+	"responses": [
+		[],
+		[],
+		[],
+		[],
+		[],
+		[],
+		[],
+		[],
+		[],
+		[],
+		[],
+		[
+			5,
+			59
+		],
+		[],
+		[],
+		[],
+		[],
+		[],
+		[],
+		[],
+		[],
+		[],
+		[],
+		[],
+		[],
+		[],
+		[
+			16,
+			69,
+			100,
+			23,
+			106,
+			38,
+			64,
+			68
+		],
+		[
+			81
+		],
+		[
+			62
+		],
+		[
+			11
+		]
+	]
+}

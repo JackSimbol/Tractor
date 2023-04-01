@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<meta charset="text/html;charset=utf-8" />
+	<title>Tractor</title>
+	<link rel="stylesheet" href="Tractor/app.css" />
+
+	<!-- <script src="javascripts/jquery-3.1.1.min.js"></script>
+	<script src="greensocks/TweenMax.min.js"></script>-->
+	<script src="Tractor/TweenMax.min.js"></script>
+
+	<script src="Tractor/jquery-3.1.1.min.js"></script>
+	<script src="player_api.js"></script>
+	<script src="Tractor/poker.min.js"></script>
+	<script src="Tractor/Double-up.js"></script>
+</head>
+<body>
+	<template id="player">
+		<section class="player">
+			<div class="deck-mask" data-id="info">
+				<div class="action">
+					<a class="btn submit" data-id="submit">
+						<figure class="hint">自动跟牌功能暂未开放，请谨慎选牌</figure>
+						<span>出牌</span>
+					</a>
+				</div>
+				<div class="call-action">
+					<a class="btn pass" data-id="call0"><span>不叫</span></a><!--
+				 --><a class="btn submit" data-id="call1"><span>报主</span></a><!--
+				 --><a class="btn submit" data-id="call2"><span>反主</span></a>
+				</div>
+				<div class="cover-action">
+					<a class="btn submit" data-id="cover"><span>盖覆</span></a>
+				</div>
+				<div class="info">
+					<!-- <figure class="avatar">
+						<img data-id="avatar" />
+					</figure> -->
+					<div class="title label-1"><span data-id="title">玩家
+					</div><div class="nick value-1"><span data-id="nick">姓名
+					</div><div class="label-2"><span>剩余牌数
+					</div><div class="value-2"><span class="value" data-id="deckLeft">0</span>
+					</div>
+					<br /><div class="label-3"><span>已被托管
+					</div><div class="value-3"><span class="value" data-id="error">错误原因</span>
+				</div>
+			</div>
+		</section>
+	</template>
+	<button style="position: absolute; top: 0; right: 0; z-index: 99999" onclick="confirm('请确认下面的进度条是黄色，并且确实轮到你出牌') && (game.players[infoProvider.getPlayerID()].enabled = true)">没有显示出牌按钮</button>
+	<div id="container"></div>
+	<div id="effect">
+		<figure id="uncommon" class="super-shadow"></figure>
+		<figure id="common"></figure>
+		<figure id="call"></figure>
+		<figure id="prompt"></figure>
+		<figure id="result">
+			<p class="result"></p>
+			<p class="reason"></p>
+		</figure>
+	</div>
+    <div id="logs"></div>
+</body>
+</html>
